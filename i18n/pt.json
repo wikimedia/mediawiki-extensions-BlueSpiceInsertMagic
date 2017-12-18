@@ -12,7 +12,7 @@
 	"bs-insertmagic-toc": "Coloca uma tabela de conteúdo na posição atual da palavra.",
 	"bs-insertmagic-noeditsection": "Oculta os links ao lado dos cabeçalhos para editar a secção.",
 	"bs-insertmagic-newsectionlink": "Adiciona um link (por omissão, \"+\") ao lado do separador \"editar\" para adicionar uma secção nova nas páginas que não são de discussão.",
-	"bs-insertmagic-nonewsectionlink": "Remove o link ao lado do separador \"editar\" nas páginas dos espaços nominais de discussão.",
+	"bs-insertmagic-nonewsectionlink": "Remove a hiperligação ao lado do separador \"editar\" nas páginas dos espaços nominais de discussão.",
 	"bs-insertmagic-nogallery": "Usado numa página de categoria, substitui as miniaturas na vista de categoria por links normais.",
 	"bs-insertmagic-hiddencat": "Usado numa página de categoria, oculta essa categoria da lista de categorias das páginas que estão nessa categoria e das páginas das categorias mãe.",
 	"bs-insertmagic-nocontentconvert": "Nas wikis com variantes de língua, não aplicar a conversão de língua (carácter e fase) ao conteúdo para apresentar a página.",
