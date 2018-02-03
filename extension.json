@@ -51,8 +51,7 @@
 			"targets": [ "desktop", "mobile" ]
 		},
 		"ext.bluespice.insertMagic.styles": {
-			"styles": "bluespice.insertMagic.css",
-			"position": "top"
+			"styles": "bluespice.insertMagic.css"
 		}
 	},
 	"ResourceFileModulePaths": {
