@@ -104,12 +104,8 @@ class InsertMagic extends BsExtensionMW {
 	 * Initialization of InsertMagic extension
 	 */
 	public function  initExt() {
-		wfProfileIn( 'BS::'.__METHOD__ );
-
 		$this->setHook( 'VisualEditorConfig' );
 		$this->setHook( 'BSExtendedEditBarBeforeEditToolbar' );
-
-		wfProfileOut( 'BS::'.__METHOD__ );
 	}
 
 	public static function getMagicWords() {
