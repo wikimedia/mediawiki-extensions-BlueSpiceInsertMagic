@@ -9,10 +9,25 @@
 	],
 	"descriptionmsg": "bs-insertmagic-desc",
 	"type": "bluespice",
-	"bsgExtensions": {
-		"BlueSpiceInsertMagic": {
-			"className": "InsertMagic",
-			"extPath": "/BlueSpiceInsertMagic"
+	"requires": {
+		"MediaWiki": ">= 1.31.0",
+		"extensions": {
+			"BlueSpiceFoundation": "*"
+		}
+	},
+	"attributes": {
+		"BlueSpiceFoundation": {
+			"Extensions": {
+				"BlueSpiceInsertMagic": {
+					"className": "InsertMagic",
+					"extPath": "/BlueSpiceInsertMagic"
+				}
+			}
+		},
+		"VisualEditor": {
+			"PluginModules" : [
+				"ext.bluespice.insertmagic.visualEditor"
+			]
 		}
 	},
 	"APIModules": {
@@ -24,11 +39,15 @@
 		]
 	},
 	"Hooks": {
+		"BeforePageDisplay": "BlueSpice\\InsertMagic\\Hook\\BeforePageDisplay\\AddModules::callback",
 		"UnitTestsList":"InsertMagic::onUnitTestsList"
 	},
 	"AutoloadClasses": {
 		"InsertMagic": "InsertMagic.class.php",
 		"BSApiInsertMagicDataStore": "includes/api/BSApiInsertMagicDataStore.php"
+	},
+	"AutoloadNamespaces": {
+		"BlueSpice\\InsertMagic\\" : "src/"
 	},
 	"ResourceModules": {
 		"ext.bluespice.insertMagic": {
@@ -52,12 +71,29 @@
 		},
 		"ext.bluespice.insertMagic.styles": {
 			"styles": "bluespice.insertMagic.css"
+		},
+		"ext.bluespice.insertmagic.visualEditor": {
+			"scripts": [
+				"ve-insertmagic/ve.ui.BSInsertMagicTool.js",
+				"ve-insertmagic/ve.ui.BSInsertMagicCommand.js"
+			],
+			"messages": [
+				"bs-insertmagic-ve-insertmagic-title"
+			],
+			"dependencies": [
+				"ext.visualEditor.mwcore",
+				"ext.bluespice.insertMagic"
+			],
+			"targets": [
+				"desktop",
+				"mobile"
+			]
 		}
 	},
 	"ResourceFileModulePaths": {
 		"localBasePath": "resources",
 		"remoteExtPath": "BlueSpiceInsertMagic/resources"
 	},
-	"manifest_version": 1,
+	"manifest_version": 2,
 	"load_composer_autoloader": true
 }
