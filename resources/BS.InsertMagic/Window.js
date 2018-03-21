@@ -1,15 +1,10 @@
-
 Ext.define( 'BS.InsertMagic.Window', {
-	extend: 'BS.Window',
-	requires:[
-		'Ext.Button'
-	],
+	extend: 'MWExt.Dialog',
 	id: 'bs-InsertMagic-dlg-window',
 	modal: true,
 	width: 600,
 	height: 400,
 	layout: 'border',
-	singleton: true,
 	preSelectedType: 'tag',
 
 	afterInitComponent: function() {
@@ -52,9 +47,8 @@ Ext.define( 'BS.InsertMagic.Window', {
 				},
 				reader: {
 					type: 'json',
-					root: 'results',
-					idProperty: 'name'//,
-					//totalProperty: 'total'
+					rootProperty: 'results',
+					idProperty: 'name'
 				}
 			},
 			sortInfo: {
@@ -67,7 +61,8 @@ Ext.define( 'BS.InsertMagic.Window', {
 			title: '',
 			id: 'bs-InsertMagic-grid-tag',
 			sm: Ext.create( 'Ext.selection.RowModel', { singleSelect: true }),
-			store: this.tagsStore,layout: 'fit',
+			store: this.tagsStore,
+			layout: 'fit',
 			loadMask: true,
 			columns: [
 				{
@@ -82,7 +77,7 @@ Ext.define( 'BS.InsertMagic.Window', {
 			stripeRows: true,
 			hideHeaders: true,
 			flex: 1,
-			style: 'padding-top: 5px'
+			height: 150
 		});
 		this.tagsGrid.on( 'select', this.onRowSelect, this );
 
@@ -113,7 +108,6 @@ Ext.define( 'BS.InsertMagic.Window', {
 		this.pnlWest = Ext.create('Ext.Container', {
 			region: 'west',
 			width: 250,
-			padding: 5,
 			layout: {
 				//HINT: http://dev.sencha.com/deploy/ext-3.3.1/examples/form/vbox-form.js
 				type: 'vbox',
@@ -131,22 +125,37 @@ Ext.define( 'BS.InsertMagic.Window', {
 		this.pnlCenter = Ext.create('Ext.Container', {
 			region: 'center',
 			border: false,
-			padding: 5,
+			padding: '0 0 8 5',
 			layout: {
 				type: 'vbox',
 				align: 'stretch'
 			},
 			items:[
-				Ext.create( 'Ext.form.Label', { text: mw.message('bs-insertmagic-label-desc').plain(), style: 'padding-top: 10px' } ),
+				new Ext.form.Label( {
+					text: mw.message( 'bs-insertmagic-label-desc' ).plain()
+				} ),
 				this.descPanel
 			]
-		});
+		} );
+
+		this.pnlMain = new Ext.panel.Panel( {
+			region: 'center',
+			border: false,
+			layout: {
+				type: 'border'
+			},
+			bodyStyle: {
+				background: 'none'
+			},
+			items: [
+				this.pnlWest,
+				this.pnlCenter
+			]
+		} );
 
 		this.items = [
-			this.pnlWest,
-			this.pnlCenter
+			this.pnlMain
 		];
-
 		this.callParent(arguments);
 	},
 
@@ -176,9 +185,7 @@ Ext.define( 'BS.InsertMagic.Window', {
 
 	onTypeSelected: function( combo, record, index ){
 		this.tagsStore.removeFilter();
-		//record[0] because of single select
-		//field1 is because of ArrayStore. Could be optimized.
-		this.tagsStore.filter( 'type', record[0].get( 'field1' ) );
+		this.tagsStore.filter( 'type', record.get( 'field1' ) );
 	},
 
 	onRowSelect: function( grid, record, index, eOpts ) {
