@@ -70,5 +70,6 @@
 	"bs-insertmagic-label-examples": "範例",
 	"bs-insertmagic-label-see-also": "參見",
 	"apihelp-bs-insertmagic-data-store-description": "列出所有用於 InsertMagic 對話的項目",
-	"apihelp-bs-insertmagic-data-store-summary": "列出所有用於 InsertMagic 對話的項目"
+	"apihelp-bs-insertmagic-data-store-summary": "列出所有用於 InsertMagic 對話的項目",
+	"bs-insertmagic-ve-insertmagic-title": "魔術字"
 }
