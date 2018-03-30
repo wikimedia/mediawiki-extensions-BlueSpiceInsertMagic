@@ -69,5 +69,6 @@
 	"bs-insertmagic-label-examples": "Exemplos",
 	"bs-insertmagic-label-see-also": "Vert também",
 	"apihelp-bs-insertmagic-data-store-description": "Lista todos os itens para o diálogo InsertMagic",
-	"apihelp-bs-insertmagic-data-store-summary": "Lista todos os itens para o diálogo InsertMagic"
+	"apihelp-bs-insertmagic-data-store-summary": "Lista todos os itens para o diálogo InsertMagic",
+	"bs-insertmagic-ve-insertmagic-title": "Palavra mágica"
 }
