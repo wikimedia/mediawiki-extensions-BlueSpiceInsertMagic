@@ -5,7 +5,8 @@
 			"Romaine",
 			"Siebrand",
 			"Esketti",
-			"Patio"
+			"Patio",
+			"Guycn2"
 		]
 	},
 	"bs-insertmagic-desc": "Voegt een dialoogvenster toe voor het bewerken en toevoegen van magische woorden en labels",
@@ -60,7 +61,7 @@
 	"bs-insertmagic-gallery": "Maak een galerij van miniaturen met het label <code>&lt;gallery&gt;</code>.",
 	"bs-insertmagic-nowiki": "Ontsnappen wiki-opmaak.",
 	"bs-insertmagic-noinclude": "Alles tussen <code>&lt;noinclude&gt;</code> en <code>&lt;/noinclude&gt;</code> wordt alleen verwerkt en weergegeven als de pagina direct wordt bekeken en niet wordt ingesloten of gesubstitueerd.",
-	"bs-insertmagic-includeonly": "De converse is <code><includeonly></code>.",
+	"bs-insertmagic-includeonly": "De converse is <code>&lt;includeonly&gt;</code>.",
 	"bs-insertmagic-dlg-title": "Magisch woord of label toevoegen",
 	"bs-insertmagic-type-tags": "Labels",
 	"bs-insertmagic-type-variables": "Variabelen",
