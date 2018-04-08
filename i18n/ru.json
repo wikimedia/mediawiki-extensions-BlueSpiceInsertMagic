@@ -6,7 +6,8 @@
 			"Striking Blue",
 			"Kaganer",
 			"Redredsonia",
-			"Facenapalm"
+			"Facenapalm",
+			"Happy13241"
 		]
 	},
 	"bs-insertmagic-desc": "Добавляет диалоговое окно, позволяющее вставлять магические слова и теги",
@@ -73,5 +74,6 @@
 	"bs-insertmagic-label-examples": "Примеры",
 	"bs-insertmagic-label-see-also": "См. также",
 	"apihelp-bs-insertmagic-data-store-description": "Перечисление всех элементов диалога InsertMagic",
-	"apihelp-bs-insertmagic-data-store-summary": "Перечисление всех элементов диалога InsertMagic"
+	"apihelp-bs-insertmagic-data-store-summary": "Перечисление всех элементов диалога InsertMagic",
+	"bs-insertmagic-ve-insertmagic-title": "Волшебные слова"
 }
