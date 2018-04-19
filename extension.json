@@ -39,8 +39,7 @@
 		]
 	},
 	"Hooks": {
-		"BeforePageDisplay": "BlueSpice\\InsertMagic\\Hook\\BeforePageDisplay\\AddModules::callback",
-		"UnitTestsList":"InsertMagic::onUnitTestsList"
+		"BeforePageDisplay": "BlueSpice\\InsertMagic\\Hook\\BeforePageDisplay\\AddModules::callback"
 	},
 	"AutoloadClasses": {
 		"InsertMagic": "InsertMagic.class.php",
