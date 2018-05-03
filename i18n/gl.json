@@ -68,5 +68,6 @@
 	"bs-insertmagic-label-desc": "Descrición",
 	"bs-insertmagic-label-examples": "Exemplos",
 	"bs-insertmagic-label-see-also": "Véxase tamén",
-	"apihelp-bs-insertmagic-data-store-description": "Lista tódolos elementos para o diálogo InsertMagic"
+	"apihelp-bs-insertmagic-data-store-description": "Lista tódolos elementos para o diálogo InsertMagic",
+	"bs-insertmagic-ve-insertmagic-title": "Palabra máxica"
 }
