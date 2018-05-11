@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Termininja"
+			"Termininja",
+			"StanProg"
 		]
 	},
+	"bs-insertmagic-label-desc": "Описание",
 	"bs-insertmagic-label-examples": "Примери",
 	"bs-insertmagic-label-see-also": "Вижте също"
 }
