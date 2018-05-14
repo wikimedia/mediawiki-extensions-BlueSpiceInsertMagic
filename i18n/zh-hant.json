@@ -3,7 +3,8 @@
 		"authors": [
 			"Cwlin0416",
 			"Liuxinyu970226",
-			"Kly"
+			"Kly",
+			"LNDDYL"
 		]
 	},
 	"bs-insertmagic-desc": "添加允許插入魔術字和標籤的對話框",
@@ -46,13 +47,13 @@
 	"bs-insertmagic-pagesize": "[較耗效能] 回傳指定頁面的位元大小。使用 <code>|R</code> 來取得原始（未格式化）的數字。",
 	"bs-insertmagic-protectionlevel": "輸出在目前頁面指定操作的保護層級。",
 	"bs-insertmagic-revisionid": "唯一修訂 ID。",
-	"bs-insertmagic-revisionday": "日已更改（無填充的數字）。",
-	"bs-insertmagic-revisionday2": "日已更改（補零的數字）。",
-	"bs-insertmagic-revisionmonth": "月已更改（無填充的數字）。",
-	"bs-insertmagic-revisionmonth1": "月已更改（補零的數字）。",
-	"bs-insertmagic-revisionyear": "已做出年份更改。",
+	"bs-insertmagic-revisionday": "已作出日變更（無填充的數字）。",
+	"bs-insertmagic-revisionday2": "已作出日變更（補零的數字）。",
+	"bs-insertmagic-revisionmonth": "已作出月變更（無填充的數字）。",
+	"bs-insertmagic-revisionmonth1": "已作出月變更（補零的數字）。",
+	"bs-insertmagic-revisionyear": "已做出年份變更。",
 	"bs-insertmagic-revisiontimestamp": "時間變化的時間戳記。",
-	"bs-insertmagic-revisionuser": "最近更改頁面的該使用者名稱，或是目前在預覽更改內容的使用者。",
+	"bs-insertmagic-revisionuser": "最近變更頁面的此使用者名稱，或是目前在預覽變更內容的使用者。",
 	"bs-insertmagic-displaytitle": "格式化目前頁面的標題大綱。",
 	"bs-insertmagic-defaultsort": "用於在分類頁面設定預設分類排序鍵。",
 	"bs-insertmagic-gallery": "產生帶有 <code>&lt;gallery&gt;</code> 標籤的縮圖圖庫。",
