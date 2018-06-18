@@ -14,7 +14,7 @@
 	"bs-insertmagic-toc": "在字詞的目前位置放置目錄。",
 	"bs-insertmagic-noeditsection": "隱藏大綱旁的章節編輯連結。",
 	"bs-insertmagic-newsectionlink": "在「編輯」分頁旁添加連結（預設是「+」符號）來為非對話頁面添加新的章節。",
-	"bs-insertmagic-nonewsectionlink": "移除在對話名稱空間裡頁面的「編輯」分頁旁的連結。",
+	"bs-insertmagic-nonewsectionlink": "移除在對話命名空間裡頁面的「編輯」分頁旁的連結。",
 	"bs-insertmagic-nogallery": "使用在分類頁面，以一般連結來取代分類檢視裡的縮圖。",
 	"bs-insertmagic-hiddencat": "使用在分類頁面，隱藏來自該成員分類清單與上層分類的分類。",
 	"bs-insertmagic-nocontentconvert": "在有語言變化的 wiki 上不對頁面顯示的內容執行語言轉換（字元與相位）。",
