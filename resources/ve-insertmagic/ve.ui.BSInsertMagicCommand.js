@@ -30,14 +30,14 @@ OO.inheritClass( ve.ui.BSInsertMagicCommand, ve.ui.Command );
 ve.ui.BSInsertMagicCommand.prototype.execute = function () {
 	var me = this;
 
-	Ext.require('BS.InsertMagic.Window', function(){
+	Ext.require('BS.InsertMagic.MWVEWindow', function(){
 		if ( !me.insertMagicWindow ) {
-			me.insertMagicWindow = new BS.InsertMagic.Window();
-			me.insertMagicWindow.on( 'ok', BsInsertMagicMWVEConnector.applyData );
-			var surfaceModel = ve.init.target.getSurface().getModel();
-			BsInsertMagicMWVEConnector.fragment = surfaceModel.getFragment();
-			me.insertMagicWindow.show( me );
+			me.insertMagicWindow = new BS.InsertMagic.MWVEWindow();
 		}
+		me.insertMagicWindow.on( 'ok', BsInsertMagicMWVEConnector.applyData );
+		var surfaceModel = ve.init.target.getSurface().getModel();
+		BsInsertMagicMWVEConnector.fragment = surfaceModel.getFragment();
+		me.insertMagicWindow.show( me );
 	});
 	return true;
 };
@@ -51,8 +51,13 @@ var BsInsertMagicMWVEConnector = {
 	},
 
 	applyData: function( sender, data ) {
-		BsInsertMagicMWVEConnector.fragment.adjustLinearSelection( 1 )
-			.insertContent( data.code, true );
+		if ( data.mwvecommand ) {
+			BsInsertMagicMWVEConnector.fragment.select();
+			ve.init.target.getSurface().executeCommand( data.mwvecommand );
+		} else {
+			BsInsertMagicMWVEConnector.fragment.adjustLinearSelection( 1 )
+				.insertContent( data.code, true );
+		}
 	}
 };
 
