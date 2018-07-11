@@ -37,6 +37,12 @@ Ext.define( 'BS.InsertMagic.MWVEWindow', {
 			submitValue: false,
 			remoteSort: false,
 			remoteFilter: false,
+			filters: [{
+				property: 'mwvecommand',
+				value: '',
+				comparison: 'neq',
+				type: 'string'
+			}],
 			proxy: {
 				type: 'ajax',
 				url: mw.util.wikiScript('api'),
@@ -79,14 +85,6 @@ Ext.define( 'BS.InsertMagic.MWVEWindow', {
 			height: 150
 		});
 		this.tagsGrid.on( 'select', this.onRowSelect, this );
-
-		this.previewPanel = Ext.create('Ext.Panel', {
-			id: 'bs-InsertMagic-panel-preview',
-			border: true,
-			flex: 1,
-			bodyStyle: 'padding:5px;',
-			autoScroll: true
-		});
 
 		this.descPanel = Ext.create('Ext.Panel', {
 			id: 'bs-InsertMagic-panel-desc',
@@ -184,6 +182,8 @@ Ext.define( 'BS.InsertMagic.MWVEWindow', {
 		this.currentData.name = record.get( 'name' );
 		this.currentData.mwvecommand = record.get( 'mwvecommand' );
 		this.currentData.code = record.get( 'code' );
+
+		this.setCommonFields( '', data );
 	},
 
 	setCommonFields: function( text, data ) {
