@@ -4,7 +4,8 @@
 			"Robert Vogel <vogel@hallowelt.biz>",
 			"Stephan Muggli <muggli@hallowelt.biz>",
 			"Metalhead64",
-			"Mglaser"
+			"Mglaser",
+			"Hwboehm"
 		]
 	},
 	"bs-insertmagic-desc": "Ergänzt einen Dialog, der das Einfügen von magischen Wörtern und Tags erlaubt.",
@@ -71,5 +72,6 @@
 	"bs-insertmagic-label-examples": "Beispiele",
 	"bs-insertmagic-label-see-also": "Siehe auch",
 	"apihelp-bs-insertmagic-data-store-description": "Listet alle Elemente für den Dialog „Magisches Wort einfügen“ auf",
+	"apihelp-bs-insertmagic-data-store-summary": "Listet alle Elemente für das InsertMagic-Dialogfeld auf",
 	"bs-insertmagic-ve-insertmagic-title": "Magisches Wort"
 }
