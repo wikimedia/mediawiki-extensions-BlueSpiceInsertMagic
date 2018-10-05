@@ -10,33 +10,12 @@ Ext.define( 'BS.InsertMagic.MWVEWindow', {
 	afterInitComponent: function() {
 		this.setTitle( mw.message('bs-insertmagic-dlg-title').plain() );
 
-		var typesArray = [
-			[ 'tag', mw.message('bs-insertmagic-type-tags').plain() ],
-			[ 'variable', mw.message('bs-insertmagic-type-variables').plain() ],
-			[ 'quickaccess', mw.message('bs-insertmagic-type-quickaccess').plain() ]
-		];
-		//TODO: Make hook?
-
-		//HINT: http://stackoverflow.com/questions/4834285/extjs-combobox-acting-like-regular-select
-		this.cmbType = Ext.create( 'Ext.form.ComboBox', {
-			id: 'bs-InsertMagic-cmb-type',
-			mode: 'local',
-			triggerAction: 'all',
-			editable: false,
-			readonly: true,
-			allowBlank: false,
-			forceSelection: true,
-			value: this.preSelectedType, //default selection
-			store: typesArray
-		});
-		this.cmbType.on( 'select', this.onTypeSelected, this );
-
 		this.tagsStore = Ext.create( 'BS.store.BSApi', {
 			apiAction: 'bs-insertmagic-data-store',
 			fields: ['id', 'type', 'name', 'desc', 'code', 'mwvecommand', 'examples', 'helplink' ],
 			submitValue: false,
 			remoteSort: false,
-			remoteFilter: false,
+			remoteFilter: true,
 			filters: [{
 				property: 'mwvecommand',
 				value: '',
@@ -60,7 +39,6 @@ Ext.define( 'BS.InsertMagic.MWVEWindow', {
 				field: 'name'
 			}
 		});
-		this.tagsStore.on( 'load',this.onStoreLoad, this );
 
 		this.tagsGrid = Ext.create('Ext.grid.Panel', {
 			title: '',
@@ -104,7 +82,6 @@ Ext.define( 'BS.InsertMagic.MWVEWindow', {
 			},
 			items: [
 				Ext.create( 'Ext.form.Label', { text: mw.message('bs-insertmagic-label-first').plain() }),
-				this.cmbType,
 				this.tagsGrid
 			]
 		});
@@ -148,25 +125,6 @@ Ext.define( 'BS.InsertMagic.MWVEWindow', {
 
 	getData: function() {
 		return this.currentData;
-	},
-
-	onStoreLoad: function( store, records, options ) {
-		this.tagsStore.sort( 'name', 'ASC' );
-
-		var firstQuickAccessItemId = this.tagsStore.findExact(
-			'type',
-			'quickaccess'
-		);
-		if( firstQuickAccessItemId && firstQuickAccessItemId !== -1 ) {
-			this.preSelectedType = 'quickaccess';
-			this.cmbType.setValue( this.preSelectedType );
-		}
-		this.tagsStore.filter( 'type', this.preSelectedType ); //just initial
-	},
-
-	onTypeSelected: function( combo, record, index ){
-		this.tagsStore.removeFilter();
-		this.tagsStore.filter( 'type', record.get( 'field1' ) );
 	},
 
 	onRowSelect: function( grid, record, index, eOpts ) {
