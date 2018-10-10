@@ -54,7 +54,7 @@ var BsInsertMagicMWVEConnector = {
 		if ( data.mwvecommand ) {
 			BsInsertMagicMWVEConnector.fragment.select();
 			ve.init.target.getSurface().executeCommand( data.mwvecommand );
-		} else {
+		} else if ( data.code ) {
 			BsInsertMagicMWVEConnector.fragment.adjustLinearSelection( 1 )
 				.insertContent( data.code, true );
 		}
