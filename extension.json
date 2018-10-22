@@ -12,14 +12,14 @@
 	"requires": {
 		"MediaWiki": ">= 1.31.0",
 		"extensions": {
-			"BlueSpiceFoundation": "*"
+			"BlueSpiceFoundation": ">= 3.0.0"
 		}
 	},
 	"attributes": {
 		"BlueSpiceFoundation": {
 			"Extensions": {
 				"BlueSpiceInsertMagic": {
-					"className": "InsertMagic",
+					"className": "\\BlueSpice\\InsertMagic\\Extension",
 					"extPath": "/BlueSpiceInsertMagic"
 				}
 			}
@@ -42,7 +42,7 @@
 		"BeforePageDisplay": "BlueSpice\\InsertMagic\\Hook\\BeforePageDisplay\\AddModules::callback"
 	},
 	"AutoloadClasses": {
-		"InsertMagic": "InsertMagic.class.php",
+		"InsertMagic": "includes/InsertMagic.php",
 		"BSApiInsertMagicDataStore": "includes/api/BSApiInsertMagicDataStore.php"
 	},
 	"AutoloadNamespaces": {
