@@ -104,7 +104,6 @@ class InsertMagic extends BsExtensionMW {
 	 */
 	public function  initExt() {
 		$this->setHook( 'VisualEditorConfig' );
-		$this->setHook( 'BSExtendedEditBarBeforeEditToolbar' );
 	}
 
 	public static function getMagicWords() {
@@ -117,18 +116,6 @@ class InsertMagic extends BsExtensionMW {
 
 	public static function getQuickAccess() {
 		return self::$aQuickAccess;
-	}
-
-	public function onBSExtendedEditBarBeforeEditToolbar( &$aRows, &$aButtonCfgs ) {
-		$this->getOutput()->addModuleStyles('ext.bluespice.insertMagic.styles');
-		$this->getOutput()->addModules('ext.bluespice.insertMagic');
-
-		$aRows[0]['dialogs'][50] = 'bs-editbutton-insertmagic';
-
-		$aButtonCfgs['bs-editbutton-insertmagic'] = array(
-			'tip' => wfMessage( 'bs-insertmagic' )->plain()
-		);
-		return true;
 	}
 
 	/**
