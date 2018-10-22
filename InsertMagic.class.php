@@ -103,7 +103,7 @@ class InsertMagic extends BsExtensionMW {
 	 * Initialization of InsertMagic extension
 	 */
 	public function  initExt() {
-		$this->setHook( 'VisualEditorConfig' );
+
 	}
 
 	public static function getMagicWords() {
@@ -116,24 +116,6 @@ class InsertMagic extends BsExtensionMW {
 
 	public static function getQuickAccess() {
 		return self::$aQuickAccess;
-	}
-
-	/**
-	* Hook Handler for VisualEditorConfig Hook
-	* @param Array $aConfigStandard reference
-	* @param Array $aConfigOverwrite reference
-	* @param Array &$aLoaderUsingDeps reference
-	* @return boolean always true to keep hook alife
-	*/
-	public function onVisualEditorConfig( &$aConfigStandard, &$aConfigOverwrite, &$aLoaderUsingDeps ) {
-		$aLoaderUsingDeps[] = 'ext.bluespice.insertMagic';
-
-		$iIndexStandard = array_search( 'unlink',$aConfigStandard["toolbar1"] );
-		array_splice( $aConfigStandard["toolbar1"], $iIndexStandard + 1, 0, "bsmagic" );
-
-		$iIndexOverwrite = array_search( 'unlink',$aConfigOverwrite["toolbar2"] );
-		array_splice( $aConfigOverwrite["toolbar2"], $iIndexOverwrite + 1, 0, "bsmagic" );
-		return true;
 	}
 
 }
