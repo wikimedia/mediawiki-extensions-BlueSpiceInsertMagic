@@ -36,3 +36,8 @@ i.mce-i-bsmagic {
 	/*@embed*/
 	background-image: url(images/code.png);
 }
+
+.oo-ui-icon-insertmagic {
+  background-image: url(images/code.png);
+  background-image: linear-gradient(transparent, transparent), /* @embed */ url('images/button_insert-magicwords.svg');
+}
