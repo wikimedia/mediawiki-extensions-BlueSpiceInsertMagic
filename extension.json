@@ -65,11 +65,12 @@
 			],
 			"dependencies": [
 				"ext.bluespice.extjs"
-			],
-			"targets": [ "desktop", "mobile" ]
+			]
 		},
 		"ext.bluespice.insertMagic.styles": {
-			"styles": "bluespice.insertMagic.css"
+			"styles": [
+				"bluespice.insertMagic.css"
+			]
 		},
 		"ext.bluespice.insertmagic.visualEditor": {
 			"scripts": [
@@ -82,10 +83,6 @@
 			"dependencies": [
 				"ext.visualEditor.mwcore",
 				"ext.bluespice.insertMagic"
-			],
-			"targets": [
-				"desktop",
-				"mobile"
 			]
 		}
 	},
