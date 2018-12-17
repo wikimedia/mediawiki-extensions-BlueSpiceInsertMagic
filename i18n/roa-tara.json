@@ -5,6 +5,8 @@
 		]
 	},
 	"bs-insertmagic-currentweek": "Sumàne (numere).",
+	"bs-insertmagic-type-tags": "Tag",
+	"bs-insertmagic-type-variables": "Variabbele",
 	"bs-insertmagic-label-desc": "Descrizione",
 	"bs-insertmagic-label-examples": "Esembie",
 	"bs-insertmagic-label-see-also": "'Ndruche pure",
