@@ -7,7 +7,8 @@
 			"Esketti",
 			"Patio",
 			"Guycn2",
-			"KlaasZ4usV"
+			"KlaasZ4usV",
+			"Mainframe98"
 		]
 	},
 	"bs-insertmagic-desc": "Voegt een dialoogvenster toe voor het bewerken en toevoegen van magische woorden en labels",
@@ -70,5 +71,7 @@
 	"bs-insertmagic-label-first": "1. Kies een label of magisch woord",
 	"bs-insertmagic-label-second": "2. Code wijzigen",
 	"bs-insertmagic-label-desc": "Beschrijving",
+	"bs-insertmagic-label-examples": "Voorbeelden",
+	"bs-insertmagic-label-see-also": "Zie ook",
 	"bs-insertmagic-ve-insertmagic-title": "Magisch woord"
 }
