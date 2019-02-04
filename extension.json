@@ -50,7 +50,6 @@
 	},
 	"ResourceModules": {
 		"ext.bluespice.insertMagic": {
-			"scripts": "bluespice.insertMagic.js",
 			"messages": [
 				"bs-insertmagic-dlg-title",
 				"bs-insertmagic-type-tags",
@@ -62,9 +61,6 @@
 				"bs-insertmagic-label-desc",
 				"bs-insertmagic-label-examples",
 				"bs-insertmagic-label-see-also"
-			],
-			"dependencies": [
-				"ext.bluespice.extjs"
 			]
 		},
 		"ext.bluespice.insertMagic.styles": {
