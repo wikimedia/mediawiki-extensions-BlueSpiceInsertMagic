@@ -21,10 +21,11 @@
  * @author     Peter Boehm <boehm@hallowelt.com>
  * @package    BlueSpiceInsertMagic
  * @copyright  Copyright (C) 2018 Hallo Welt! GmbH, All rights reserved.
- * @license    http://www.gnu.org/copyleft/gpl.html GNU Public License v3
+ * @license    http://www.gnu.org/copyleft/gpl.html GPL-3.0-only
  * @filesource
  */
 namespace BlueSpice\InsertMagic\Hook;
+
 use BlueSpice\Hook;
 
 abstract class BSInsertMagicAjaxGetData extends Hook {
@@ -44,8 +45,9 @@ abstract class BSInsertMagicAjaxGetData extends Hook {
 	/**
 	 * Located in \BSApiInsertMagicDataStore::makeData. Collects magic words
 	 * to be send to the client
-	 * @param \stdClass $response
+	 * @param \stdClass &$response
 	 * @param string $type
+	 * @return bool
 	 */
 	public static function callback( &$response, $type ) {
 		$className = static::class;
@@ -61,7 +63,7 @@ abstract class BSInsertMagicAjaxGetData extends Hook {
 	/**
 	 * @param \IContextSource $context
 	 * @param \Config $config
-	 * @param \stdClass $response
+	 * @param \stdClass &$response
 	 * @param string $type
 	 */
 	public function __construct( $context, $config, &$response, $type ) {

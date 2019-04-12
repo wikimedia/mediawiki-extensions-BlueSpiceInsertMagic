@@ -37,7 +37,6 @@ class BSApiInsertMagicDataStoreTest extends BSApiExtJSStoreTestBase {
 	}
 
 	protected function createStoreFixtureData() {
-		return;
 	}
 
 	protected function getModuleName() {

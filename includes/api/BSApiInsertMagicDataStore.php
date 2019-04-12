@@ -22,7 +22,7 @@
  * @author     Patric Wirth <wirth@hallowelt.com>
  * @package    BlueSpiceInsertMagic
  * @copyright  Copyright (C) 2016 Hallo Welt! GmbH, All rights reserved.
- * @license    http://www.gnu.org/copyleft/gpl.html GNU Public License v3
+ * @license    http://www.gnu.org/copyleft/gpl.html GPL-3.0-only
  *
  * Example request parameters of an ExtJS store
  */
@@ -35,14 +35,14 @@ class BSApiInsertMagicDataStore extends BSApiExtJSStoreBase {
 	 * will be done by the base class
 	 */
 	protected function makeData( $sQuery = '' ) {
-		//Utilize?
-		//MagicWord::getDoubleUnderscoreArray()
-		//MagicWord::getVariableIDs()
-		//MagicWord::getSubstIDs()
+		// Utilize?
+		// MagicWord::getDoubleUnderscoreArray()
+		// MagicWord::getVariableIDs()
+		// MagicWord::getSubstIDs()
 
-		$oResponse = (object) array(
-			'result' => array(),
-		);
+		$oResponse = (object)[
+			'result' => [],
+		];
 
 		foreach ( InsertMagic::getTags() as $sTag => $aData ) {
 			foreach ( $aData as $key => $value ) {
@@ -52,7 +52,7 @@ class BSApiInsertMagicDataStore extends BSApiExtJSStoreBase {
 				$oDescriptor->name = $sTag;
 				$oDescriptor->desc = wfMessage( $key )->text();
 				$oDescriptor->code = $value;
-				$oDescriptor->examples = array();
+				$oDescriptor->examples = [];
 				$oDescriptor->helplink = '';
 				$oDescriptor->previewable = true;
 				$oResponse->result[] = $oDescriptor;
@@ -81,7 +81,7 @@ class BSApiInsertMagicDataStore extends BSApiExtJSStoreBase {
 				$oDescriptor->name = substr( $value, 2, -2 );
 				$oDescriptor->desc = wfMessage( $key )->text();
 				$oDescriptor->code = $value;
-				$oDescriptor->examples = array();
+				$oDescriptor->examples = [];
 				$oDescriptor->helplink = '';
 				$oDescriptor->previewable = true;
 				$oResponse->result[] = $oDescriptor;
@@ -96,23 +96,23 @@ class BSApiInsertMagicDataStore extends BSApiExtJSStoreBase {
 				$oDescriptor->name = substr( $value, 2, -2 );
 				$oDescriptor->desc = wfMessage( $key )->text();
 				$oDescriptor->code = $value;
-				$oDescriptor->examples = array();
+				$oDescriptor->examples = [];
 				$oDescriptor->helplink = '';
 				$oDescriptor->previewable = false;
 				$oResponse->result[] = $oDescriptor;
 			}
 		}
 
-		//Other extensions may inject their tags or MagicWords
-		Hooks::run('BSInsertMagicAjaxGetData', array( &$oResponse, 'tags' ) );
-		Hooks::run('BSInsertMagicAjaxGetData', array( &$oResponse, 'quickaccess' ) );
-		Hooks::run('BSInsertMagicAjaxGetData', array( &$oResponse, 'variables' ) ); //For compatibility
-		Hooks::run('BSInsertMagicAjaxGetData', array( &$oResponse, 'switches' ) ); //For compatibility
+		// Other extensions may inject their tags or MagicWords
+		Hooks::run( 'BSInsertMagicAjaxGetData', [ &$oResponse, 'tags' ] );
+		Hooks::run( 'BSInsertMagicAjaxGetData', [ &$oResponse, 'quickaccess' ] );
+		Hooks::run( 'BSInsertMagicAjaxGetData', [ &$oResponse, 'variables' ] ); // For compatibility
+		Hooks::run( 'BSInsertMagicAjaxGetData', [ &$oResponse, 'switches' ] ); // For compatibility
 
-		//Check if all members of $oResponse->result are of type stdClass()
-		foreach( $oResponse->result as $iKey => &$res ) {
-			if( is_array ( $res ) ) {
-				$res = (object) $res;
+		// Check if all members of $oResponse->result are of type stdClass()
+		foreach ( $oResponse->result as $iKey => &$res ) {
+			if ( is_array( $res ) ) {
+				$res = (object)$res;
 			}
 		}
 
