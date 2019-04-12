@@ -9,6 +9,6 @@ class AddModules extends BeforePageDisplay {
 	protected function doProcess() {
 		$this->out->addModuleStyles( 'ext.bluespice.insertMagic.styles' );
 
-		return  true;
+		return true;
 	}
 }

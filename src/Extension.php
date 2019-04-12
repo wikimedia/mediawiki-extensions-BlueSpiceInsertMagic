@@ -24,7 +24,7 @@
  * @author     Stephan Muggli <muggli@hallowelt.com>
  * @package    BlueSpiceInsertMagic
  * @copyright  Copyright (C) 2016 Hallo Welt! GmbH, All rights reserved.
- * @license    http://www.gnu.org/copyleft/gpl.html GNU Public License v3
+ * @license    http://www.gnu.org/copyleft/gpl.html GPL-3.0-only
  * @filesource
  */
 
@@ -63,9 +63,9 @@ class Extension extends \BlueSpice\Extension {
 			[ 'bs-insertmagic-scriptpath' => '{{SCRIPTPATH}}' ],
 			[ 'bs-insertmagic-stylepath' => '{{STYLEPATH}}' ],
 			[ 'bs-insertmagic-currentversion' => '{{CURRENTVERSION}}' ],
-			[ 'bs-insertmagic-currentlanguage' => '{{CONTENTLANGUAGE}}' ], //'{{CONTENTLANG}}',
+			[ 'bs-insertmagic-currentlanguage' => '{{CONTENTLANGUAGE}}' ], // '{{CONTENTLANG}}',
 			[ 'bs-insertmagic-pageid' => '{{PAGEID}}' ],
-			[ 'bs-insertmagic-pagesize' => '{{PAGESIZE:pagename}}' ], //'{{PAGESIZE:<page name>|R}}',
+			[ 'bs-insertmagic-pagesize' => '{{PAGESIZE:pagename}}' ], // '{{PAGESIZE:<page name>|R}}',
 			[ 'bs-insertmagic-protectionlevel' => '{{PROTECTIONLEVEL:action}}' ],
 			[ 'bs-insertmagic-revisionid' => '{{REVISIONID}}' ],
 			[ 'bs-insertmagic-revisionday' => '{{REVISIONDAY}}' ],
@@ -76,7 +76,7 @@ class Extension extends \BlueSpice\Extension {
 			[ 'bs-insertmagic-revisiontimestamp' => '{{REVISIONTIMESTAMP}}' ],
 			[ 'bs-insertmagic-revisionuser' => '{{REVISIONUSER}}' ],
 			[ 'bs-insertmagic-displaytitle' => '{{DISPLAYTITLE:title}}' ],
-			[ 'bs-insertmagic-defaultsort' => '{{DEFAULTSORT:sortkey}}' ], //'{{DEFAULTSORTKEY:<sortkey>}}', '{{DEFAULTCATEGORYSORT:<sortkey>}}', '{{DEFAULTSORT:<sortkey>|noerror}}', '{{DEFAULTSORT:<sortkey>|noreplace}}',
+			[ 'bs-insertmagic-defaultsort' => '{{DEFAULTSORT:sortkey}}' ], // '{{DEFAULTSORTKEY:<sortkey>}}', '{{DEFAULTCATEGORYSORT:<sortkey>}}', '{{DEFAULTSORT:<sortkey>|noerror}}', '{{DEFAULTSORT:<sortkey>|noreplace}}',
 		],
 		'behavior-switches' => [
 			[ 'bs-insertmagic-notoc' => '__NOTOC__' ],
@@ -87,8 +87,8 @@ class Extension extends \BlueSpice\Extension {
 			[ 'bs-insertmagic-nonewsectionlink' => '__NONEWSECTIONLINK__' ],
 			[ 'bs-insertmagic-nogallery' => '__NOGALLERY__' ],
 			[ 'bs-insertmagic-hiddencat' => '__HIDDENCAT__' ],
-			[ 'bs-insertmagic-nocontentconvert' => '__NOCONTENTCONVERT__' ], //'__NOCC__',
-			[ 'bs-insertmagic-notitleconvert' => '__NOTITLECONVERT__' ], //'__NOTC__',
+			[ 'bs-insertmagic-nocontentconvert' => '__NOCONTENTCONVERT__' ], // '__NOCC__',
+			[ 'bs-insertmagic-notitleconvert' => '__NOTITLECONVERT__' ], // '__NOTC__',
 			[ 'bs-insertmagic-end' => '__END__' ],
 			[ 'bs-insertmagic-index' => '__INDEX__' ],
 			[ 'bs-insertmagic-noindex' => '__NOINDEX__' ],
