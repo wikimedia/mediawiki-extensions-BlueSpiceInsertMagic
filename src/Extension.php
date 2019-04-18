@@ -37,7 +37,7 @@ namespace BlueSpice\InsertMagic;
 class Extension extends \BlueSpice\Extension {
 
 	/**
-	 * HINT: http://www.mediawiki.org/wiki/Help:Magic_words
+	 * HINT: https://www.mediawiki.org/wiki/Help:Magic_words
 	 * HINT: http://de.wikipedia.org/wiki/Wikipedia:MagicWord
 	 * TODO: Migrate to configs and use Data\Store
 	 * @var array
