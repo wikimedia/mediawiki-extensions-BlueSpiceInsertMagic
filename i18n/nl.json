@@ -69,6 +69,7 @@
 	"bs-insertmagic-type-tags": "Labels",
 	"bs-insertmagic-type-variables": "Variabelen",
 	"bs-insertmagic-type-switches": "Gedragschakelaars",
+	"bs-insertmagic-type-quickaccess": "Snelle toegang",
 	"bs-insertmagic-label-first": "1. Kies een label of magisch woord",
 	"bs-insertmagic-label-second": "2. Code wijzigen",
 	"bs-insertmagic-label-desc": "Beschrijving",
