@@ -64,5 +64,6 @@
 	"bs-insertmagic-type-switches": "Префрлање на поведение",
 	"bs-insertmagic-label-first": "1. Одберете текст или волшебен збор",
 	"bs-insertmagic-label-second": "2. Изменете го кодот",
-	"bs-insertmagic-label-desc": "Опис"
+	"bs-insertmagic-label-desc": "Опис",
+	"bs-insertmagic-label-examples": "Примери"
 }
