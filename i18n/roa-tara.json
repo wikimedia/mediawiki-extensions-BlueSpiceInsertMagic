@@ -4,6 +4,11 @@
 			"Joetaras"
 		]
 	},
+	"bs-insertmagic-currentyear": "Anne de mò",
+	"bs-insertmagic-currentmonth": "Mese de mò (cu zere iniziale).",
+	"bs-insertmagic-currentmonthname": "Mese de mò (nome).",
+	"bs-insertmagic-currentmonthnamegen": "Mese de mò (forme genitive).",
+	"bs-insertmagic-currentmonthabbrev": "Mese de mò (abbreviazione).",
 	"bs-insertmagic-currentweek": "Sumàne (numere).",
 	"bs-insertmagic-type-tags": "Tag",
 	"bs-insertmagic-type-variables": "Variabbele",
