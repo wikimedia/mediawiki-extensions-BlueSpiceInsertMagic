@@ -4,8 +4,13 @@
 			"Joetaras"
 		]
 	},
+	"bs-insertmagic-desc": "Aggiugne 'na fenestre de dialoghe ca te permette 'u 'nzerimende de parole maggeche e tag",
 	"bs-insertmagic": "'Nzerisce 'a parola maggeche",
 	"bs-insertmagic-notoc": "Scunne 'a tabbelle de le condenute.",
+	"bs-insertmagic-forcetoc": "Forze 'a tabbelle de le contenute pe farle assè jndr'à posiziona soje normale.",
+	"bs-insertmagic-toc": "Mitte 'na tabbelle de condenute jndr'à posizione de mò de le parole.",
+	"bs-insertmagic-index": "Dì a le motore de recerche de 'ndicizzà 'a pàgene.",
+	"bs-insertmagic-noindex": "Dì a le motore de recerche de no 'ndicizzà 'a pàgene.",
 	"bs-insertmagic-currentyear": "Anne de mò",
 	"bs-insertmagic-currentmonth": "Mese de mò (cu zere iniziale).",
 	"bs-insertmagic-currentmonthname": "Mese de mò (nome).",
@@ -24,6 +29,8 @@
 	"bs-insertmagic-servername": "Nome d'u dominie.",
 	"bs-insertmagic-scriptpath": "Percorse relative d'u script.",
 	"bs-insertmagic-stylepath": "Percorse relative d'u stile.",
+	"bs-insertmagic-revisionid": "ID d'a revisione uneche.",
+	"bs-insertmagic-dlg-title": "'Nzerisce 'na parola maggeche o 'nu tag",
 	"bs-insertmagic-type-tags": "Tag",
 	"bs-insertmagic-type-variables": "Variabbele",
 	"bs-insertmagic-type-quickaccess": "Accesse veloce",
