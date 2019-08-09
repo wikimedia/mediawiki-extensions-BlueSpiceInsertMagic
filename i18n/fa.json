@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alirezaaa"
+			"Alirezaaa",
+			"FarsiNevis"
 		]
 	},
 	"bs-insertmagic-desc": "یک پنجره محاوره‌ای برای ویرایش حالتی که اجازه درج واژه‌های جادویی و تگ‌ها را می‌دهد می‌افزاید",
@@ -53,5 +54,8 @@
 	"bs-insertmagic-type-switches": "راه‌گزین‌های رفتاری",
 	"bs-insertmagic-label-first": "۱. برچسب یا واژه جادویی را انتخاب کنید",
 	"bs-insertmagic-label-second": "۲. کد را تغییر دهید",
-	"bs-insertmagic-label-desc": "توضیحات"
+	"bs-insertmagic-label-desc": "توضیحات",
+	"bs-insertmagic-type-quickaccess": "دست‌یابی سریع",
+	"bs-insertmagic-label-examples": "مثال‌ها",
+	"bs-insertmagic-ve-insertmagic-title": "واژهٔ جادویی"
 }
