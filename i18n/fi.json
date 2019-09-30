@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pyscowicz"
+			"Pyscowicz",
+			"Silvonen"
 		]
 	},
 	"bs-insertmagic-servername": "Domain-nimi.",
-	"bs-insertmagic-label-desc": "Kuvaus"
+	"bs-insertmagic-label-desc": "Kuvaus",
+	"bs-insertmagic-label-see-also": "Katso myös"
 }
