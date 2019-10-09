@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kumkumuk"
+			"Kumkumuk",
+			"Mirzali"
 		]
 	},
 	"bs-insertmagic-server": "Domain URL.",
@@ -12,6 +13,6 @@
 	"bs-insertmagic-label-first": "1. Etiket yana çekuy weçinê",
 	"bs-insertmagic-label-second": "2. Modifiya kod",
 	"bs-insertmagic-label-desc": "Şınasnayış",
-	"bs-insertmagic-label-examples": "Misali",
+	"bs-insertmagic-label-examples": "Nımuneyi",
 	"bs-insertmagic-label-see-also": "Neyzi bıvin"
 }

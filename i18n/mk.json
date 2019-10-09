@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bjankuloski06"
+			"Bjankuloski06",
+			"Vlad5250"
 		]
 	},
-	"bs-insertmagic-desc": "Додава дијалог во уредувачкиот режим што овозможува вметнување на волшебни зборови и ознаки",
+	"bs-insertmagic-desc": "Додава дијалог што овозможува вметнување на волшебни зборови и ознаки",
 	"bs-insertmagic": "Внесете волшебен збор",
 	"bs-insertmagic-notoc": "Ја сокрива кратката содржина",
 	"bs-insertmagic-forcetoc": "Наметнува кратката содржина да стои на нормалното место",
@@ -63,5 +64,8 @@
 	"bs-insertmagic-type-switches": "Префрлање на поведение",
 	"bs-insertmagic-label-first": "1. Одберете текст или волшебен збор",
 	"bs-insertmagic-label-second": "2. Изменете го кодот",
-	"bs-insertmagic-label-desc": "Опис"
+	"bs-insertmagic-label-desc": "Опис",
+	"bs-insertmagic-label-examples": "Примери",
+	"bs-insertmagic-label-see-also": "Поврзано",
+	"bs-insertmagic-ve-insertmagic-title": "Волшебен збор"
 }
