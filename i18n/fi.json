@@ -6,6 +6,7 @@
 		]
 	},
 	"bs-insertmagic-servername": "Domain-nimi.",
+	"bs-insertmagic-currentversion": "Wikin MediaWiki-versio.",
 	"bs-insertmagic-label-desc": "Kuvaus",
 	"bs-insertmagic-label-see-also": "Katso myös"
 }

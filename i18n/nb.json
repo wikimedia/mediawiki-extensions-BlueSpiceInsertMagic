@@ -54,6 +54,7 @@
 	"bs-insertmagic-displaytitle": "Formater den gjeldende sidens tittelheader.",
 	"bs-insertmagic-defaultsort": "Brukes for kategorisering av sider, setter en standard sorteringsnøkkel.",
 	"bs-insertmagic-gallery": "Lag et galleri med miniatyrbilder med taggen <code>&lt;gallery&gt;</code>.",
+	"bs-insertmagic-nowiki": "Omgå wikimarkering.",
 	"bs-insertmagic-noinclude": "Alt mellom <code>&lt;noinclude&gt;</code> og <code>&lt;/noinclude&gt;</code> vil prosesseres og vises bare når siden vises direkte, og vil ikke inkluderes eller substes.",
 	"bs-insertmagic-includeonly": "Det motsatte er <code>&lt;includeonly&gt;</code>.",
 	"bs-insertmagic-dlg-title": "Sett inn magisk ord eller tagg",
