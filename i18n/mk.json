@@ -67,5 +67,7 @@
 	"bs-insertmagic-label-desc": "Опис",
 	"bs-insertmagic-label-examples": "Примери",
 	"bs-insertmagic-label-see-also": "Поврзано",
-	"bs-insertmagic-ve-insertmagic-title": "Волшебен збор"
+	"bs-insertmagic-ve-insertmagic-title": "Волшебен збор",
+	"apihelp-bs-insertmagic-data-store-description": "Наведи ги сите предмети за дијалогот InsertMagic",
+	"apihelp-bs-insertmagic-data-store-summary": "Наведи ги сите предмети за дијалогот InsertMagic"
 }
