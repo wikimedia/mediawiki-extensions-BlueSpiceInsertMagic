@@ -29,7 +29,7 @@
 	"bs-insertmagic-currentyear": "Année actuelle",
 	"bs-insertmagic-currentmonth": "Mois actuel (numéro de 01 à 12, éventuellement préfixé d’un zéro).",
 	"bs-insertmagic-currentmonthname": "Mois actuel (nom).",
-	"bs-insertmagic-currentmonthnamegen": "Mois présent (forme au génitif).",
+	"bs-insertmagic-currentmonthnamegen": "Mois actuel (forme au génitif).",
 	"bs-insertmagic-currentmonthabbrev": "Mois actuel (abréviation).",
 	"bs-insertmagic-currentday": "Jour du mois (numéro de 1 à 31, sans zéro initial).",
 	"bs-insertmagic-currentday2": "Jour du mois (numéro de 01 à 31, éventuellement préfixé d’un zéro).",
