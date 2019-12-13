@@ -7,7 +7,8 @@
 			"Macofe",
 			"Yasten",
 			"Pols12",
-			"Verdy p"
+			"Verdy p",
+			"Thibaut120094"
 		]
 	},
 	"bs-insertmagic-desc": "Ajoute une boîte de dialogue permettant l’insertion de mots magiques et de balises",
@@ -16,7 +17,7 @@
 	"bs-insertmagic-forcetoc": "Force l’apparition de la table des matières dans sa position normale.",
 	"bs-insertmagic-toc": "Place une table des matières à l’emplacement actuel du mot.",
 	"bs-insertmagic-noeditsection": "Masque les liens de modification de section à côté des titres.",
-	"bs-insertmagic-newsectionlink": "Ajoute un lien (« + » par défaut) à côté de l’onglet « Modifier » pour ajouter une nouvelle section sur une page hors des espaces de discussion.",
+	"bs-insertmagic-newsectionlink": "Ajoute un lien (« + » par défaut) à côté de l’onglet « Modifier » pour ajouter une nouvelle section sur une page hors des espaces de discussion.",
 	"bs-insertmagic-nonewsectionlink": "Supprime le lien à côté de l’onglet « Modifier » sur les pages des espaces de nom de discussion.",
 	"bs-insertmagic-nogallery": "Utilisé dans une page de catégorie, remplace les vignettes dans l’affichage de la catégorie par des liens normaux.",
 	"bs-insertmagic-hiddencat": "Utilisé dans une page de catégorie, masque la catégorie des listes de catégorie dans ses membres et ses catégories parentes.",
