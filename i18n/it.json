@@ -3,7 +3,8 @@
 		"authors": [
 			"Beta16",
 			"Macofe",
-			"Selven"
+			"Selven",
+			"Dansita"
 		]
 	},
 	"bs-insertmagic-desc": "Aggiunge una finestra di dialogo che consente l'inserimento di parole magiche ed etichette",
@@ -29,5 +30,7 @@
 	"bs-insertmagic-label-desc": "Descrizione",
 	"bs-insertmagic-label-examples": "Esempi",
 	"bs-insertmagic-label-see-also": "Vedi anche",
-	"bs-insertmagic-ve-insertmagic-title": "Parola magica"
+	"bs-insertmagic-ve-insertmagic-title": "Parola magica",
+	"bs-insertmagic": "Inserisci parola magica",
+	"bs-insertmagic-type-quickaccess": "Accesso rapido"
 }
