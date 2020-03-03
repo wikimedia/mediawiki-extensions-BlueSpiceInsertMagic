@@ -30,15 +30,17 @@ OO.inheritClass( ve.ui.BSInsertMagicCommand, ve.ui.Command );
 ve.ui.BSInsertMagicCommand.prototype.execute = function () {
 	var me = this;
 
-	Ext.require('BS.InsertMagic.MWVEWindow', function(){
-		if ( !me.insertMagicWindow ) {
-			me.insertMagicWindow = new BS.InsertMagic.MWVEWindow();
-		}
-		me.insertMagicWindow.on( 'ok', BsInsertMagicMWVEConnector.applyData );
-		var surfaceModel = ve.init.target.getSurface().getModel();
-		BsInsertMagicMWVEConnector.fragment = surfaceModel.getFragment();
-		me.insertMagicWindow.show( me );
-	});
+	mw.loader.using( 'ext.bluespice.extjs' ).done( function() {
+		Ext.require( 'BS.InsertMagic.MWVEWindow', function() {
+			if ( !me.insertMagicWindow ) {
+				me.insertMagicWindow = new BS.InsertMagic.MWVEWindow();
+			}
+			me.insertMagicWindow.on( 'ok', BsInsertMagicMWVEConnector.applyData );
+			var surfaceModel = ve.init.target.getSurface().getModel();
+			BsInsertMagicMWVEConnector.fragment = surfaceModel.getFragment();
+			me.insertMagicWindow.show( me );
+		} );
+	} );
 	return true;
 };
 
