@@ -56,7 +56,7 @@
 	"bs-insertmagic-displaytitle": "Geçerli sayfanın başlık başlığını biçimlendirin.",
 	"bs-insertmagic-defaultsort": "Sayfaları kategorilere ayırmak için kullanılır, varsayılan bir kategori sıralama anahtarı ayarlar.",
 	"bs-insertmagic-gallery": "<code>&lt;gallery&gt;</code> etiketi ile bir küçük resim galerisi oluşturun.",
-	"bs-insertmagic-nowiki": "Wiki işaretlemesinden kaçın.",
+	"bs-insertmagic-nowiki": "Viki işaretlemesinden kaçın.",
 	"bs-insertmagic-noinclude": "<code>&lt;noinclude&gt;</code> ve <code>&lt;/noinclude&gt;</code> arasındaki her şey işlenecek ve yalnızca sayfa doğrudan görüntülendiğinde görüntülenecek, eklenmeyecek veya değiştirilmeyecektir.",
 	"bs-insertmagic-includeonly": "Bunun tersi <code>&lt;includeonly&gt;</code>.",
 	"bs-insertmagic-dlg-title": "Sihirli kelime veya etiket ekle",
