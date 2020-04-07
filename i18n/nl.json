@@ -1,16 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sjoerddebruin",
-			"Romaine",
-			"Siebrand",
 			"Esketti",
-			"Patio",
 			"Guycn2",
+			"Klaas van Buiten",
 			"KlaasZ4usV",
 			"Mainframe98",
-			"Xbaked potatox",
-			"Klaas van Buiten"
+			"Patio",
+			"Romaine",
+			"Siebrand",
+			"Sjoerddebruin",
+			"Xbaked potatox"
 		]
 	},
 	"bs-insertmagic-desc": "Voegt een dialoogvenster toe voor het bewerken en toevoegen van magische woorden en labels",

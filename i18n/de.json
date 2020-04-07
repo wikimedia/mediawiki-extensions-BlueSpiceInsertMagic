@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robert Vogel <vogel@hallowelt.biz>",
-			"Stephan Muggli <muggli@hallowelt.biz>",
+			"Hwboehm",
 			"Metalhead64",
 			"Mglaser",
-			"Hwboehm"
+			"Robert Vogel <vogel@hallowelt.biz>",
+			"Stephan Muggli <muggli@hallowelt.biz>"
 		]
 	},
 	"bs-insertmagic-desc": "Ergänzt einen Dialog, der das Einfügen von magischen Wörtern und Tags erlaubt.",
