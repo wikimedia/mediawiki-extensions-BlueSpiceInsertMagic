@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Beta16",
+			"Dansita",
 			"Macofe",
-			"Selven",
-			"Dansita"
+			"Selven"
 		]
 	},
 	"bs-insertmagic-desc": "Aggiunge una finestra di dialogo che consente l'inserimento di parole magiche ed etichette",

@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fitoschido",
-			"Macofe",
 			"AVIADOR",
-			"Amitie 10g"
+			"Amitie 10g",
+			"Fitoschido",
+			"Macofe"
 		]
 	},
 	"bs-insertmagic-desc": "Añade un cuadro de diálogo que permite insertar palabras mágicas y etiquetas",

@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki",
-			"Otokoume"
+			"Otokoume",
+			"Shirayuki"
 		]
 	},
 	"bs-insertmagic-desc": "マジックワードやタグを挿入できるダイアログを追加する",

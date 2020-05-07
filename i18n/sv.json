@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Jopparn",
-			"WikiPhoenix",
 			"Lokal Profil",
-			"Macofe"
+			"Macofe",
+			"WikiPhoenix"
 		]
 	},
 	"bs-insertmagic-desc": "Lägger till en dialogruta som kan lägga till magiska ord och taggar.",

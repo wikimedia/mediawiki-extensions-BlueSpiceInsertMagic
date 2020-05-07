@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Cwlin0416",
-			"Liuxinyu970226",
 			"Kly",
-			"LNDDYL"
+			"LNDDYL",
+			"Liuxinyu970226"
 		]
 	},
 	"bs-insertmagic-desc": "添加允許插入魔術字和標籤的對話框",

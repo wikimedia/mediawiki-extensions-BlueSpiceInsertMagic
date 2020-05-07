@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Okras",
 			"Alexandr Efremov",
-			"Striking Blue",
-			"Kaganer",
-			"Redredsonia",
 			"Facenapalm",
 			"Happy13241",
-			"Movses"
+			"Kaganer",
+			"Movses",
+			"Okras",
+			"Redredsonia",
+			"Striking Blue",
+			"Wikisaurus"
 		]
 	},
 	"bs-insertmagic-desc": "Добавляет диалоговое окно, позволяющее вставлять магические слова и теги",
