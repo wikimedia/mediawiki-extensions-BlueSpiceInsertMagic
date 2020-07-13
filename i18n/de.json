@@ -3,7 +3,9 @@
 		"authors": [
 			"Hwboehm",
 			"Metalhead64",
-			"Mglaser"
+			"Mglaser",
+			"Robert Vogel <vogel@hallowelt.biz>",
+			"Stephan Muggli <muggli@hallowelt.biz>"
 		]
 	},
 	"bs-insertmagic-desc": "Ergänzt einen Dialog, der das Einfügen von magischen Wörtern und Tags erlaubt.",
