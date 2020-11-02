@@ -104,12 +104,24 @@ class BSApiInsertMagicDataStore extends BSApiExtJSStoreBase {
 		}
 
 		// Other extensions may inject their tags or MagicWords
-		Hooks::run( 'BSInsertMagicAjaxGetData', [ &$oResponse, 'tags' ] );
-		Hooks::run( 'BSInsertMagicAjaxGetData', [ &$oResponse, 'quickaccess' ] );
+		$this->getServices()->getHookContainer()->run( 'BSInsertMagicAjaxGetData', [
+			&$oResponse,
+			'tags'
+		] );
+		$this->getServices()->getHookContainer()->run( 'BSInsertMagicAjaxGetData', [
+			&$oResponse,
+			'quickaccess'
+		] );
 		// For compatibility
-		Hooks::run( 'BSInsertMagicAjaxGetData', [ &$oResponse, 'variables' ] );
+		$this->getServices()->getHookContainer()->run( 'BSInsertMagicAjaxGetData', [
+			&$oResponse,
+			'variables'
+		] );
 		// For compatibility
-		Hooks::run( 'BSInsertMagicAjaxGetData', [ &$oResponse, 'switches' ] );
+		$this->getServices()->getHookContainer()->run( 'BSInsertMagicAjaxGetData', [
+			&$oResponse,
+			'switches'
+		] );
 
 		// Check if all members of $oResponse->result are of type stdClass()
 		foreach ( $oResponse->result as $iKey => &$res ) {
