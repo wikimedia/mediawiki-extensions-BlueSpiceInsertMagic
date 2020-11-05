@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"A2y4",
 			"Otokoume",
 			"Shirayuki"
 		]
@@ -56,5 +57,6 @@
 	"bs-insertmagic-label-first": "1. タグまたはマジックワードを選択",
 	"bs-insertmagic-label-second": "2. コードを修正",
 	"bs-insertmagic-label-desc": "説明",
-	"bs-insertmagic-label-examples": "例"
+	"bs-insertmagic-label-examples": "例",
+	"bs-insertmagic-type-quickaccess": "クイックアクセス"
 }
