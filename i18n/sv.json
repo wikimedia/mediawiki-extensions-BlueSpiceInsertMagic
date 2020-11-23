@@ -4,6 +4,7 @@
 			"Jopparn",
 			"Lokal Profil",
 			"Macofe",
+			"Sabelöga",
 			"WikiPhoenix"
 		]
 	},
@@ -17,8 +18,8 @@
 	"bs-insertmagic-nonewsectionlink": "Tar bort länken bredvid \"Redigera\"-fliken på sidor i diskussionsnamnrymden.",
 	"bs-insertmagic-nogallery": "Används på en kategorisida, ersätter miniatyrer i kategorivyn med vanliga länkar.",
 	"bs-insertmagic-hiddencat": "Används på en kategorisida, döljer kategorin från listan över kategorier i dess medlemmar och överordnade kategorier.",
-	"bs-insertmagic-nocontentconvert": "På wikis med språkvarianter, utför ingen språkkonvertering av innehåll (tecken och fas) i sidvisningen.",
-	"bs-insertmagic-notitleconvert": "På wikis med språkvarianter, utför ingen språkkonvertering titeln.",
+	"bs-insertmagic-nocontentconvert": "På wikier med språkvarianter, utför ingen språkkonvertering av innehåll (tecken och fas) i sidvisningen.",
+	"bs-insertmagic-notitleconvert": "På wikier med språkvarianter, utför ingen språkkonvertering av titeln.",
 	"bs-insertmagic-end": "Markerar uttryckligen slutet på sidan. Detta för att förhindra att MediaWiki tar bort avslutande blanksteg.",
 	"bs-insertmagic-index": "Tala om för sökmotorerna att indexera sidan.",
 	"bs-insertmagic-noindex": "Tala om för sökmotorerna att inte indexera sidan.",
