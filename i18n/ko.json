@@ -5,6 +5,7 @@
 			"Ykhwong"
 		]
 	},
+	"bs-insertmagic": "특수 명령문 추가",
 	"bs-insertmagic-notoc": "목차를 숨깁니다.",
 	"bs-insertmagic-currenttime": "시간(24시간 HH:mm 형식).",
 	"bs-insertmagic-currentweek": "주(숫자).",
