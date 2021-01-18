@@ -18,6 +18,7 @@
 	"bs-insertmagic-pageid": "문서 식별자를 반환합니다.",
 	"bs-insertmagic-revisionid": "고유한 판 ID입니다.",
 	"bs-insertmagic-revisionyear": "연도가 변경되었습니다.",
+	"bs-insertmagic-nowiki": "위키 마크업을 이스케이프 처리합니다.",
 	"bs-insertmagic-type-tags": "태그",
 	"bs-insertmagic-type-variables": "변수",
 	"bs-insertmagic-type-quickaccess": "빠른 접근",
