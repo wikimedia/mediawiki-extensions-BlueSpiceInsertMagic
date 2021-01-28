@@ -55,7 +55,7 @@
 	"bs-insertmagic-revisiontimestamp": "Časovni žig spremembe.",
 	"bs-insertmagic-revisionuser": "Uporabniško ime uporabnika, ki je izvedel zadnjo spremembo strani, ali trenutnega uporabnika, če je prikazan predogled sprememb.",
 	"bs-insertmagic-displaytitle": "Oblikuj naslovno glavo trenutne strani.",
-	"bs-insertmagic-defaultsort": "Uporablja se za kategoriziranje strani, in nastavi privzeti ključ razvrstitve kategorije.",
+	"bs-insertmagic-defaultsort": "Uporablja se za kategoriziranje strani in nastavi privzeti razvrstilni ključ kategorije.",
 	"bs-insertmagic-gallery": "Z značko <code>&lt;gallery&gt;</code> ustvari galerijo sličic.",
 	"bs-insertmagic-nowiki": "Nespremenjeno prikaži jezik wiki.",
 	"bs-insertmagic-noinclude": "Karkoli med <code>&lt;noinclude&gt;</code> in <code>&lt;/noinclude&gt;</code> bo obdelano in prikazano le ob neposrednem pregledu strani. Ne bo pa vključeno ali zamenjano.",
