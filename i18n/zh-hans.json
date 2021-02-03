@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Liuxinyu970226",
 			"Duolaimi",
-			"Yfdyh000",
-			"Macofe"
+			"Liuxinyu970226",
+			"Macofe",
+			"Yfdyh000"
 		]
 	},
 	"bs-insertmagic-desc": "添加对话框以允许插入魔术字和标签",

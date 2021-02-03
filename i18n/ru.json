@@ -1,14 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Okras",
+			"1233qwer1234qwer4",
 			"Alexandr Efremov",
-			"Striking Blue",
-			"Kaganer",
-			"Redredsonia",
 			"Facenapalm",
 			"Happy13241",
-			"Movses"
+			"Kaganer",
+			"Movses",
+			"Okras",
+			"Redredsonia",
+			"Striking Blue",
+			"Wikisaurus"
 		]
 	},
 	"bs-insertmagic-desc": "Добавляет диалоговое окно, позволяющее вставлять магические слова и теги",
@@ -25,7 +27,7 @@
 	"bs-insertmagic-notitleconvert": "На вики с языковыми вариантами не выполняет языковое преобразование в заголовке.",
 	"bs-insertmagic-end": "Явно помечает конец страницы, чтобы помешать MediaWiki удалить конечные пробелы.",
 	"bs-insertmagic-index": "Разрешать поисковым системам индексировать страницу.",
-	"bs-insertmagic-noindex": "Сообщать поисковым системам, чтоб они не индексировали страницу.",
+	"bs-insertmagic-noindex": "Сообщать поисковым системам, чтобы они не индексировали страницу.",
 	"bs-insertmagic-staticredirect": "На страницах перенаправлений не позволяет MediaWiki автоматически обновлять ссылку, когда кто-либо перемещает страницу и проверяет.",
 	"bs-insertmagic-currentyear": "Текущий год",
 	"bs-insertmagic-currentmonth": "Текущий месяц (номер с ведущим нулём).",

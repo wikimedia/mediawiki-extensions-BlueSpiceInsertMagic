@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Alojz.tic",
-			"Skalcaa",
-			"Dbc334"
+			"Dbc334",
+			"Eleassar",
+			"Skalcaa"
 		]
 	},
-	"bs-insertmagic-desc": "Doda pogovorno okno, ki omogoča vnos čarobnih besed in oznak",
+	"bs-insertmagic-desc": "Doda pogovorno okno, ki omogoča vnos čarobnih besed in značk",
 	"bs-insertmagic": "Vstavite čarobno besedo",
 	"bs-insertmagic-notoc": "Skrije kazalo.",
 	"bs-insertmagic-forcetoc": "Prisili kazalo, da se pojavi na normalnem položaju.",
@@ -54,16 +55,16 @@
 	"bs-insertmagic-revisiontimestamp": "Časovni žig spremembe.",
 	"bs-insertmagic-revisionuser": "Uporabniško ime uporabnika, ki je izvedel zadnjo spremembo strani, ali trenutnega uporabnika, če je prikazan predogled sprememb.",
 	"bs-insertmagic-displaytitle": "Oblikuj naslovno glavo trenutne strani.",
-	"bs-insertmagic-defaultsort": "Uporablja se za kategoriziranje strani, in nastavi privzeti ključ razvrstitve kategorije.",
-	"bs-insertmagic-gallery": "Ustvari galerijo sličic z oznako <code>&lt;gallery&gt;</code>.",
+	"bs-insertmagic-defaultsort": "Uporablja se za kategoriziranje strani in nastavi privzeti razvrstilni ključ kategorije.",
+	"bs-insertmagic-gallery": "Z značko <code>&lt;gallery&gt;</code> ustvari galerijo sličic.",
 	"bs-insertmagic-nowiki": "Nespremenjeno prikaži jezik wiki.",
 	"bs-insertmagic-noinclude": "Karkoli med <code>&lt;noinclude&gt;</code> in <code>&lt;/noinclude&gt;</code> bo obdelano in prikazano le ob neposrednem pregledu strani. Ne bo pa vključeno ali zamenjano.",
 	"bs-insertmagic-includeonly": "Obratno je <code>&lt;includeonly&gt;</code>.",
-	"bs-insertmagic-dlg-title": "Vstavi čarobno besedo ali oznako",
-	"bs-insertmagic-type-tags": "Oznake",
+	"bs-insertmagic-dlg-title": "Vstavi čarobno besedo ali značko",
+	"bs-insertmagic-type-tags": "Značke",
 	"bs-insertmagic-type-variables": "Spremenljivke",
 	"bs-insertmagic-type-switches": "Vedenjska stikala",
-	"bs-insertmagic-label-first": "1. Izberite oznako ali čarobno besedo",
+	"bs-insertmagic-label-first": "1. Izberite značko ali čarobno besedo",
 	"bs-insertmagic-label-second": "2. Spremenite kodo",
 	"bs-insertmagic-label-desc": "Opis",
 	"bs-insertmagic-label-examples": "Primeri",

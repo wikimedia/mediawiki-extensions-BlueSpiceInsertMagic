@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Alirezaaa",
-			"FarsiNevis"
+			"FarsiNevis",
+			"Jeeputer"
 		]
 	},
 	"bs-insertmagic-desc": "یک پنجره محاوره‌ای برای ویرایش حالتی که اجازه درج واژه‌های جادویی و تگ‌ها را می‌دهد می‌افزاید",
@@ -57,5 +58,6 @@
 	"bs-insertmagic-label-desc": "توضیحات",
 	"bs-insertmagic-type-quickaccess": "دست‌یابی سریع",
 	"bs-insertmagic-label-examples": "مثال‌ها",
-	"bs-insertmagic-ve-insertmagic-title": "واژهٔ جادویی"
+	"bs-insertmagic-ve-insertmagic-title": "واژهٔ جادویی",
+	"bs-insertmagic-label-see-also": "جستارهای وابسته"
 }
