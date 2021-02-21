@@ -25,7 +25,7 @@
 			}
 		},
 		"VisualEditor": {
-			"PluginModules" : [
+			"PluginModules": [
 				"ext.bluespice.insertmagic.visualEditor"
 			]
 		}
@@ -46,7 +46,7 @@
 		"BSApiInsertMagicDataStore": "includes/api/BSApiInsertMagicDataStore.php"
 	},
 	"AutoloadNamespaces": {
-		"BlueSpice\\InsertMagic\\" : "src/"
+		"BlueSpice\\InsertMagic\\": "src/"
 	},
 	"ResourceModules": {
 		"ext.bluespice.insertMagic": {
