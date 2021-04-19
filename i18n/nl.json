@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Asarta",
 			"Esketti",
 			"Guycn2",
 			"Klaas van Buiten",
@@ -17,8 +18,8 @@
 	"bs-insertmagic": "Magisch woord toevoegen",
 	"bs-insertmagic-notoc": "Inhoudsopgave verbergen.",
 	"bs-insertmagic-forcetoc": "Dwingt de inhoudsopgave weergegeven in de normale positie.",
-	"bs-insertmagic-toc": "Plaatsen van een inhoudsopgave aan het woord op de huidige functie.",
-	"bs-insertmagic-noeditsection": "Verbergt de sectie koppelingen bewerken naast koppen.",
+	"bs-insertmagic-toc": "Plaats een inhoudsopgave op de huidige positie van het woord.",
+	"bs-insertmagic-noeditsection": "Verbergt de sectie bewerken koppelingen naast koppen.",
 	"bs-insertmagic-newsectionlink": "Voegt een koppeling toe (standaard \"+\") naast het tabblad \"bewerken\" voor het toevoegen van een nieuwe sectie op een niet-overlegpagina.",
 	"bs-insertmagic-nonewsectionlink": "Verwijdert de koppeling naast het tabblad \"bewerken\" op pagina ' s in te praten naamruimten.",
 	"bs-insertmagic-nogallery": "Gebruikt op een categorie pagina, vervangt de miniaturen in de categorie weergave met normale koppelingen.",
