@@ -21,7 +21,7 @@
 	"bs-insertmagic-nonewsectionlink": "Text for removes the link beside the 'edit' tab on pages in talk namespaces.",
 	"bs-insertmagic-nogallery": "Text for used on a category page, replaces thumbnails in the category view with normal links.",
 	"bs-insertmagic-hiddencat": "Text for used on a category page, hides the category from the lists of categories in its members and parent categories.",
-	"bs-insertmagic-nocontentconvert": "Text for on wikis with language variants, don't perform any content language conversion (character and phase) in page display.",
+	"bs-insertmagic-nocontentconvert": "Text for on wikis with language variants, don't perform any content language conversion (character and phrase) in page display.",
 	"bs-insertmagic-notitleconvert": "Text for on wikis with language variants, don't perform language conversion on the title.",
 	"bs-insertmagic-end": "Text for explicitly marks the end of the page, to prevent MediaWiki from removing trailing whitespace.",
 	"bs-insertmagic-index": "Text for tell search engines to index the page.",
