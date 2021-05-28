@@ -3,7 +3,8 @@
 		"authors": [
 			"A2y4",
 			"Otokoume",
-			"Shirayuki"
+			"Shirayuki",
+			"UsagiNeko"
 		]
 	},
 	"bs-insertmagic-desc": "マジックワードやタグを挿入できるダイアログを追加する",
@@ -16,7 +17,7 @@
 	"bs-insertmagic-nonewsectionlink": "トーク名前空間内のページで「編集」タブの近くのリンクを除去する。",
 	"bs-insertmagic-nogallery": "カテゴリ ページで使用する。カテゴリ ビューのサムネイルを通常のリンクに置き換える。",
 	"bs-insertmagic-hiddencat": "カテゴリ ページで使用する。所属するページや親カテゴリのカテゴリ一覧に当該カテゴリを表示しない。",
-	"bs-insertmagic-nocontentconvert": "言語変種があるウィキで、記事を表示する際にコンテンツ言語変換 (文字およびフェーズ) を実行しない。",
+	"bs-insertmagic-nocontentconvert": "言語変種があるウィキで、記事を表示する際にコンテンツ言語変換 (文字および語句) を実行しない。",
 	"bs-insertmagic-notitleconvert": "言語変種があるウィキで、ページ名について言語変換を実行しない。",
 	"bs-insertmagic-end": "MediaWiki が記事の末尾の空白類を除去するのを回避するため、末尾に明示的に印を付ける。",
 	"bs-insertmagic-index": "検索エンジンに対してページをインデックス化するよう指示する。",
