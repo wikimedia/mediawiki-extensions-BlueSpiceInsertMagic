@@ -27,5 +27,7 @@
 	"bs-insertmagic-label-see-also": "같이 보기",
 	"apihelp-bs-insertmagic-data-store-description": "InsertMagic 대화 상자의 모든 항목을 나열합니다",
 	"apihelp-bs-insertmagic-data-store-summary": "InsertMagic 대화상자의 모든 항목을 나열합니다",
-	"bs-insertmagic-ve-insertmagic-title": "특수 명령"
+	"bs-insertmagic-ve-insertmagic-title": "특수 명령",
+	"bs-insertmagic": "특수 명령문 추가",
+	"bs-insertmagic-nowiki": "위키 마크업을 이스케이프 처리합니다."
 }

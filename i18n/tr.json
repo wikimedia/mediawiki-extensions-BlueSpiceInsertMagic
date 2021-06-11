@@ -3,6 +3,7 @@
 		"authors": [
 			"BaRaN6161 TURK",
 			"Hedda",
+			"SaldırganSincap",
 			"Sayginer"
 		]
 	},
@@ -16,7 +17,7 @@
 	"bs-insertmagic-nonewsectionlink": "Konuşma ad alanlarındaki sayfalarda \"düzenle\" sekmesinin yanındaki bağlantıyı kaldırır.",
 	"bs-insertmagic-nogallery": "Kategori sayfasında kullanıldığında, kategori görünümündeki küçük resimleri normal bağlantılarla değiştirir.",
 	"bs-insertmagic-hiddencat": "Kategori sayfasında kullanıldığında, kategoriyi üyelerindeki kategoriler listesinden ve üst kategorilerden gizler.",
-	"bs-insertmagic-nocontentconvert": "Dil değişkenleri olan vikilerde, sayfa ekranında herhangi bir içerik dili dönüşümü (karakter ve aşama) gerçekleştirmeyin.",
+	"bs-insertmagic-nocontentconvert": "Dil değişkenleri olan vikilerde, sayfa ekranında herhangi bir içerik dili dönüşümü (karakter ve ifade) gerçekleştirmeyin.",
 	"bs-insertmagic-notitleconvert": "Dil değişkenleri olan vikilerde başlıkta dil dönüştürme işlemi gerçekleştirmeyin.",
 	"bs-insertmagic-end": "MediaWiki'nin arka boşluğu kaldırmasını önlemek için sayfanın sonunu açıkça işaretler.",
 	"bs-insertmagic-index": "Arama motorlarına sayfayı dizine eklemelerini söyleyin.",

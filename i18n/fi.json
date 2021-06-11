@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Joquliina",
 			"Pyscowicz",
 			"Silvonen"
 		]
@@ -12,5 +13,11 @@
 	"bs-insertmagic-type-variables": "Muuttujat",
 	"bs-insertmagic-type-quickaccess": "Nopea pääsy",
 	"bs-insertmagic-label-examples": "Esimerkit",
-	"bs-insertmagic-ve-insertmagic-title": "Taikasana"
+	"bs-insertmagic-ve-insertmagic-title": "Taikasana",
+	"bs-insertmagic-currentyear": "Tämä vuosi",
+	"bs-insertmagic-currentmonthname": "Nykyinen kuukausi (nimi).",
+	"bs-insertmagic-currentmonthnamegen": "Nykyinen kuukausi (genetiivissä).",
+	"bs-insertmagic-currentmonthabbrev": "Nykyinen kuukausi (lyhenne).",
+	"bs-insertmagic-currentdayname": "Viikonpäivä (nimi).",
+	"bs-insertmagic-currentweek": "Viikko (numero)."
 }

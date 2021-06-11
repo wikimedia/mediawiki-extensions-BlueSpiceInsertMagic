@@ -18,7 +18,7 @@
 	"bs-insertmagic-nonewsectionlink": "Entfernt auf Diskussionsseiten den Link neben dem \"Bearbeiten\"-Reiter.",
 	"bs-insertmagic-nogallery": "Ersetzt auf einer Kategorieseite alle Bilder-Voransichten durch normale Links.",
 	"bs-insertmagic-hiddencat": "Versteckt bei Benutzung eine Kategorie bei allen geführten Seiten und in den zugehörigen Oberkategorien.",
-	"bs-insertmagic-nocontentconvert": "Verhindert für Wikis mit Sprachvarianten eine Sprachübersetzung (Zeichen und Phase) in der angezeigten Seite.",
+	"bs-insertmagic-nocontentconvert": "Verhindert für Wikis mit Sprachvarianten eine Sprachübersetzung (Zeichen und Satz) in der angezeigten Seite.",
 	"bs-insertmagic-notitleconvert": "Verhindert für Wikis mit Sprachvarianten eine Sprachübersetzung im Titel.",
 	"bs-insertmagic-end": "Definiert explizit das Ende einer Seite, und verhindert damit das Entfernen von schließenden Leerzeichen.",
 	"bs-insertmagic-index": "Erlaubt Suchmaschinen das Indizieren der Seite.",

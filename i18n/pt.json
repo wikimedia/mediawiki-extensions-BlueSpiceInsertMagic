@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Athena in Wonderland",
+			"Emma Franzen",
 			"Hamilton Abreu",
 			"Vitorvicentevalente"
 		]
@@ -16,7 +17,7 @@
 	"bs-insertmagic-nonewsectionlink": "Remove a hiperligação ao lado do separador \"editar\" nas páginas dos espaços nominais de discussão.",
 	"bs-insertmagic-nogallery": "Usado numa página de categoria, substitui as miniaturas na vista de categoria por hiperligações normais.",
 	"bs-insertmagic-hiddencat": "Usado numa página de categoria, oculta essa categoria da lista de categorias das páginas que estão nessa categoria e das páginas das categorias mãe.",
-	"bs-insertmagic-nocontentconvert": "Nas wikis com variantes de língua, não aplicar a conversão de língua (carácter e fase) ao conteúdo para apresentar a página.",
+	"bs-insertmagic-nocontentconvert": "Em wikis com variantes de idioma, não execute nenhuma conversão de idioma do conteúdo (caractere e frase) na exibição da página.",
 	"bs-insertmagic-notitleconvert": "Nas wikis com variantes de língua, não aplicar a conversão de língua ao título.",
 	"bs-insertmagic-end": "Marca explicitamente o fim da página, para impedir o MediaWiki de remover o espaço em branco ao fundo.",
 	"bs-insertmagic-index": "Instruir os motores de pesquisa para indexarem a página.",
