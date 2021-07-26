@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"DDPAT",
 			"Macofe",
 			"Piramidion",
 			"Ата"
 		]
 	},
-	"bs-insertmagic-desc": "Додає діалогове вікно, що дозволяє вставку магічних слів і теґів",
+	"bs-insertmagic-desc": "Додає діалогове вікно, що дозволяє вставку магічних слів і тегів",
 	"bs-insertmagic": "Вставити магічне слово",
 	"bs-insertmagic-notoc": "Приховує зміст.",
 	"bs-insertmagic-forcetoc": "Змушує зміст з'явитися у його нормальній позиції.",
@@ -57,14 +58,14 @@
 	"bs-insertmagic-defaultsort": "Використовуватися для категоризації сторінок, встановлює ключ сортування категорії за замовчуванням.",
 	"bs-insertmagic-gallery": "Створити галерею мініатюр з допомогою теґу <code>&lt;gallery&gt;</code>.",
 	"bs-insertmagic-nowiki": "Уникнути вікі-розмітки.",
-	"bs-insertmagic-noinclude": "Будь-що між <code>&lt;noinclude&gt;</code> і <code>&lt;/noinclude&gt;</code> буде оброблятися і відображатися лише, коли сторінку переглядают напряму, це не можна включити або підставити.",
+	"bs-insertmagic-noinclude": "Будь-що між <code>&lt;noinclude&gt;</code> і <code>&lt;/noinclude&gt;</code> буде оброблятися і відображатися лише, коли сторінку переглядають безпосередньо, це не можна включити або підставити.",
 	"bs-insertmagic-includeonly": "Протилежним є <code>&lt;includeonly&gt;</code>.",
 	"bs-insertmagic-dlg-title": "Вставити магічне слово або теґ",
-	"bs-insertmagic-type-tags": "Теґи",
+	"bs-insertmagic-type-tags": "Теги",
 	"bs-insertmagic-type-variables": "Змінні",
 	"bs-insertmagic-type-switches": "Перемикачі поведінки",
 	"bs-insertmagic-type-quickaccess": "Швидкий доступ",
-	"bs-insertmagic-label-first": "1. Виберіть теґ або магічне слово",
+	"bs-insertmagic-label-first": "1. Виберіть тег або магічне слово",
 	"bs-insertmagic-label-second": "2. Змініть код",
 	"bs-insertmagic-label-desc": "Опис",
 	"bs-insertmagic-label-examples": "Приклади",
