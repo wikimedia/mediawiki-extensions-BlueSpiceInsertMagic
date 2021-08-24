@@ -4,7 +4,8 @@
 			"Beta16",
 			"Dansita",
 			"Macofe",
-			"Selven"
+			"Selven",
+			"Stefano"
 		]
 	},
 	"bs-insertmagic-desc": "Aggiunge una finestra di dialogo che consente l'inserimento di parole magiche ed etichette",
@@ -26,6 +27,8 @@
 	"bs-insertmagic-sitename": "Il nome del sito wiki.",
 	"bs-insertmagic-server": "URL di dominio.",
 	"bs-insertmagic-servername": "Nome di dominio.",
+	"bs-insertmagic-revisionyear": "Modifica anno effettuata",
+	"bs-insertmagic-dlg-title": "Inseirsce parola magica o tag",
 	"bs-insertmagic-type-tags": "Etichette",
 	"bs-insertmagic-type-variables": "Variabili",
 	"bs-insertmagic-type-quickaccess": "Accesso rapido",
