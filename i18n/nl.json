@@ -78,5 +78,7 @@
 	"bs-insertmagic-label-desc": "Beschrijving",
 	"bs-insertmagic-label-examples": "Voorbeelden",
 	"bs-insertmagic-label-see-also": "Zie ook",
+	"apihelp-bs-insertmagic-data-store-description": "Geeft een overzicht van alle elementen voor het dialoogvenster InsertMagic",
+	"apihelp-bs-insertmagic-data-store-summary": "Geeft een overzicht van alle elementen voor het dialoogvenster InsertMagic",
 	"bs-insertmagic-ve-insertmagic-title": "Magisch woord"
 }
