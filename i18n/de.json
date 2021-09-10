@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Filzstift",
 			"Hwboehm",
 			"Metalhead64",
 			"Mglaser",
@@ -20,7 +21,7 @@
 	"bs-insertmagic-hiddencat": "Versteckt bei Benutzung eine Kategorie bei allen geführten Seiten und in den zugehörigen Oberkategorien.",
 	"bs-insertmagic-nocontentconvert": "Verhindert für Wikis mit Sprachvarianten eine Sprachübersetzung (Zeichen und Satz) in der angezeigten Seite.",
 	"bs-insertmagic-notitleconvert": "Verhindert für Wikis mit Sprachvarianten eine Sprachübersetzung im Titel.",
-	"bs-insertmagic-end": "Definiert explizit das Ende einer Seite, und verhindert damit das Entfernen von schließenden Leerzeichen.",
+	"bs-insertmagic-end": "Definiert explizit das Ende einer Seite und verhindert damit das Entfernen von schließenden Leerzeichen.",
 	"bs-insertmagic-index": "Erlaubt Suchmaschinen das Indizieren der Seite.",
 	"bs-insertmagic-noindex": "Verbietet Suchmaschinen das Indizieren der Seite.",
 	"bs-insertmagic-staticredirect": "Hindert MediaWiki auf Weiterleitungsseiten an der automatischen Korrektur, wenn das Ziel verschoben wird und die Option zur Korrektur gesetzt ist.",
