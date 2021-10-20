@@ -4,7 +4,8 @@
 			"Beta16",
 			"Dansita",
 			"Macofe",
-			"Selven"
+			"Selven",
+			"Stefano"
 		]
 	},
 	"bs-insertmagic-desc": "Aggiunge una finestra di dialogo che consente l'inserimento di parole magiche ed etichette",
@@ -32,5 +33,7 @@
 	"bs-insertmagic-label-desc": "Descrizione",
 	"bs-insertmagic-label-examples": "Esempi",
 	"bs-insertmagic-label-see-also": "Vedi anche",
-	"bs-insertmagic-ve-insertmagic-title": "Parola magica"
+	"bs-insertmagic-ve-insertmagic-title": "Parola magica",
+	"bs-insertmagic-revisionyear": "Modifica anno effettuata",
+	"bs-insertmagic-dlg-title": "Inseirsce parola magica o tag"
 }

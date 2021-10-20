@@ -30,5 +30,7 @@
 	"bs-insertmagic-ve-insertmagic-title": "특수 명령",
 	"bs-insertmagic": "특수 명령문 추가",
 	"bs-insertmagic-nowiki": "위키 마크업을 이스케이프 처리합니다.",
-	"bs-insertmagic-currentyear": "올해"
+	"bs-insertmagic-currentyear": "올해",
+	"bs-insertmagic-scriptpath": "상대 스크립트 경로입니다.",
+	"bs-insertmagic-stylepath": "상대 스타일 경로입니다."
 }
