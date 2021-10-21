@@ -4,6 +4,7 @@
 			"AVIADOR",
 			"Amitie 10g",
 			"Fitoschido",
+			"Jakeukalane",
 			"Macofe",
 			"McDutchie"
 		]
@@ -42,7 +43,7 @@
 	"bs-insertmagic-servername": "Nombre de dominio.",
 	"bs-insertmagic-scriptpath": "Ruta relativa al script.",
 	"bs-insertmagic-stylepath": "Ruta relativa a los estilos",
-	"bs-insertmagic-currentversion": "La versión de MediaWiki que usa el wiki.",
+	"bs-insertmagic-currentversion": "La versión de MediaWiki que usa la wiki.",
 	"bs-insertmagic-contentlanguage": "El idioma predeterminado de la interfaz del wiki.",
 	"bs-insertmagic-pageid": "Devuelve el identificador de página.",
 	"bs-insertmagic-pagesize": "[expensive] Retorna el tamaño de la página especificada en bytes. Uss <code>|R</code> para obtener números en bruto (sin formato).",
