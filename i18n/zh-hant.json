@@ -5,7 +5,8 @@
 			"Kly",
 			"LNDDYL",
 			"Liuxinyu970226",
-			"Weather Top Wizard"
+			"Weather Top Wizard",
+			"Winston Sung"
 		]
 	},
 	"bs-insertmagic-desc": "添加允許插入魔術字和標籤的對話框",
@@ -40,7 +41,7 @@
 	"bs-insertmagic-sitename": "wiki 網站名稱。",
 	"bs-insertmagic-server": "網域 URL。",
 	"bs-insertmagic-servername": "網域名稱。",
-	"bs-insertmagic-scriptpath": "相對 Script 路徑。",
+	"bs-insertmagic-scriptpath": "相對腳本路徑。",
 	"bs-insertmagic-stylepath": "相對樣式路徑。",
 	"bs-insertmagic-currentversion": "此 wiki 的 MediaWiki 版本。",
 	"bs-insertmagic-contentlanguage": "此 wiki 的預設介面語言。",
