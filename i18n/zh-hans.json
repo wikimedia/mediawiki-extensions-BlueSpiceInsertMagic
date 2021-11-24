@@ -5,7 +5,8 @@
 			"Lakejason0",
 			"Liuxinyu970226",
 			"Macofe",
-			"Yfdyh000"
+			"Yfdyh000",
+			"Xiplus"
 		]
 	},
 	"bs-insertmagic-desc": "添加对话框以允许插入魔术字和标签",
@@ -15,7 +16,7 @@
 	"bs-insertmagic-toc": "在单词的当前位置放置目录。",
 	"bs-insertmagic-noeditsection": "隐藏标题旁的节编辑连接。",
 	"bs-insertmagic-newsectionlink": "在“编辑”标签旁添加链接（默认加号“+”），用于在讨论页添加新话题。",
-	"bs-insertmagic-nonewsectionlink": "移除讨论名字空间页面“编辑”标签旁的链接。",
+	"bs-insertmagic-nonewsectionlink": "移除讨论命名空间页面“编辑”标签旁的链接。",
 	"bs-insertmagic-nogallery": "用于分类页面，带普通链接替代分类中的缩略图。",
 	"bs-insertmagic-hiddencat": "用于分类页面，从它的成员分类列表和父分类中隐藏分类。",
 	"bs-insertmagic-nocontentconvert": "在有语言变种的wiki上不对页面显示的任何内容（字符和短语）进行语言转换。",

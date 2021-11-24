@@ -4,7 +4,9 @@
 			"Cwlin0416",
 			"Kly",
 			"LNDDYL",
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Weather Top Wizard",
+			"Winston Sung"
 		]
 	},
 	"bs-insertmagic-desc": "添加允許插入魔術字和標籤的對話框",
@@ -17,7 +19,7 @@
 	"bs-insertmagic-nonewsectionlink": "移除在對話命名空間裡頁面的「編輯」分頁旁的連結。",
 	"bs-insertmagic-nogallery": "使用在分類頁面，以一般連結來取代分類檢視裡的縮圖。",
 	"bs-insertmagic-hiddencat": "使用在分類頁面，隱藏來自該成員分類清單與上層分類的分類。",
-	"bs-insertmagic-nocontentconvert": "在有語言變化的 wiki 上不對頁面顯示的內容執行語言轉換（字元與相位）。",
+	"bs-insertmagic-nocontentconvert": "在有語言變種的wiki上不對頁面顯示的任何内容（字元和短語）進行語言轉換。",
 	"bs-insertmagic-notitleconvert": "在有語言變化的 wiki 上不執行標題的語言轉換。",
 	"bs-insertmagic-end": "明確標記出頁面的底部，來防止 MediaWiki 移除末端的空格。",
 	"bs-insertmagic-index": "告知搜尋引擎對頁面索引。",
@@ -39,7 +41,7 @@
 	"bs-insertmagic-sitename": "wiki 網站名稱。",
 	"bs-insertmagic-server": "網域 URL。",
 	"bs-insertmagic-servername": "網域名稱。",
-	"bs-insertmagic-scriptpath": "相對 Script 路徑。",
+	"bs-insertmagic-scriptpath": "相對腳本路徑。",
 	"bs-insertmagic-stylepath": "相對樣式路徑。",
 	"bs-insertmagic-currentversion": "此 wiki 的 MediaWiki 版本。",
 	"bs-insertmagic-contentlanguage": "此 wiki 的預設介面語言。",

@@ -6,7 +6,7 @@
 			"Jeeputer"
 		]
 	},
-	"bs-insertmagic-desc": "یک پنجره محاوره‌ای برای ویرایش حالتی که اجازه درج واژه‌های جادویی و تگ‌ها را می‌دهد می‌افزاید",
+	"bs-insertmagic-desc": "پنجره‌ای را می‌افزاید که امکان افزودن واژه‌های جادویی و برچسب‌ها را فراهم می‌کند",
 	"bs-insertmagic": "درج واژه جادویی",
 	"bs-insertmagic-notoc": "جدول محتویات را پنهان می‌کند.",
 	"bs-insertmagic-forcetoc": "جدول محتویات را اجبار می‌کند در موقعیت عادی خودش ظاهر شود.",
@@ -46,6 +46,7 @@
 	"bs-insertmagic-revisionmonth1": "تغییر ماه انجام شد (تعداد غیر خالی).",
 	"bs-insertmagic-revisionyear": "تغییر سال انجام شد.",
 	"bs-insertmagic-revisiontimestamp": "برچسب زمان به عنوان زمان تغییر.",
+	"bs-insertmagic-revisionuser": "نام کابری که آخرین تغییر را در صفحه اعمال کرده‌است، یا کاربر کنونی در زمان پیش‌نمایش تغییر.",
 	"bs-insertmagic-displaytitle": "قالب‌بندی سرساز عنوان صفحه جاری.",
 	"bs-insertmagic-gallery": "با برچسب <code>&lt;gallery&gt;</code> یک گالری از بندانگشتی‌ها بسازید.",
 	"bs-insertmagic-nowiki": "گریختن از نشانه‌گذاری ویکی.",
