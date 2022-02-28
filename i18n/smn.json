@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Yupik"
+			"Yupik",
+			"Seipinne"
 		]
 	},
+	"bs-insertmagic-currentmonthnamegen": "Tááláš mánuppaje (genetiivist).",
 	"bs-insertmagic-type-tags": "Kilgoleh",
 	"bs-insertmagic-label-examples": "Ovdâmeerhâh"
 }
