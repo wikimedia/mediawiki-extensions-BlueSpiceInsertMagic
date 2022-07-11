@@ -10,7 +10,8 @@
 			"Okras",
 			"Redredsonia",
 			"Striking Blue",
-			"Wikisaurus"
+			"Wikisaurus",
+			"Pacha Tchernof"
 		]
 	},
 	"bs-insertmagic-desc": "Добавляет диалоговое окно, позволяющее вставлять магические слова и теги",
@@ -19,7 +20,7 @@
 	"bs-insertmagic-forcetoc": "Заставляет содержание появиться в его нормальной позиции.",
 	"bs-insertmagic-toc": "Помещает содержание страницы в текущую позицию в тексте.",
 	"bs-insertmagic-noeditsection": "Скрывает ссылки на редактирование разделов рядом с заголовками.",
-	"bs-insertmagic-newsectionlink": "Добавляет ссылку (\"+\" по умолчанию) рядом со вкладкой правки для добавления нового раздела на не обсуждаемую страницу.",
+	"bs-insertmagic-newsectionlink": "Добавляет ссылку («+» по умолчанию) рядом со вкладкой правки для добавления нового раздела на не обсуждаемую страницу.",
 	"bs-insertmagic-nonewsectionlink": "Удаляет ссылку рядом с вкладкой правки в разговорных пространствах имён.",
 	"bs-insertmagic-nogallery": "Использованная на странице категорий, заменяет эскизы в просмотре категорий на корректные ссылки.",
 	"bs-insertmagic-hiddencat": "Использованная на странице категорий, скрывает категорию из списков категорий в его членах и родительских категориях.",
@@ -64,9 +65,9 @@
 	"bs-insertmagic-defaultsort": "Использован для категоризации страниц, задаёт ключ сортировки категорий по умолчанию.",
 	"bs-insertmagic-gallery": "Создать галерею эскизов, используя метку <code>&lt;gallery&gt;</code>.",
 	"bs-insertmagic-nowiki": "Избежать вики-разметки.",
-	"bs-insertmagic-noinclude": "Все, что между <code>&lt;noinclude&gt;</code> и <code>&lt;/noinclude&gt;</code>, будет обрабатываться и отображаться, только при непосредственном просмотре страницы, оно не будет включено или заменено.",
+	"bs-insertmagic-noinclude": "Всё, что расположено между <code>&lt;noinclude&gt;</code> и <code>&lt;/noinclude&gt;</code>, будет обрабатываться и отображаться только при непосредственном просмотре страницы и не будет включено или заменено.",
 	"bs-insertmagic-includeonly": "Противоположный вариант — <code>&lt;includeonly&gt;</code>.",
-	"bs-insertmagic-dlg-title": "Вставка волшебное слово или метку",
+	"bs-insertmagic-dlg-title": "Вставить волшебное слово или метку",
 	"bs-insertmagic-type-tags": "Теги",
 	"bs-insertmagic-type-variables": "Переменные",
 	"bs-insertmagic-type-switches": "Переключатели поведения",
