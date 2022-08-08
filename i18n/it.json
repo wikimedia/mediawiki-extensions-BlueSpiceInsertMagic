@@ -37,5 +37,9 @@
 	"bs-insertmagic-ve-insertmagic-title": "Parola magica",
 	"bs-insertmagic-revisionyear": "Modifica anno effettuata",
 	"bs-insertmagic-dlg-title": "Inseirsce parola magica o tag",
-	"bs-insertmagic-pageid": "Restituisce l'identificatore di pagina."
+	"bs-insertmagic-pageid": "Restituisce l'identificatore di pagina.",
+	"bs-insertmagic-forcetoc": "Forza il sommario ad apparire nella sua posizione normale.",
+	"bs-insertmagic-toc": "Posiziona un sommario nella posizione attuale della parola.",
+	"bs-insertmagic-newsectionlink": "Aggiunge un collegamento (\"+\" per impostazione predefinita) accanto alla scheda \"modifica\" per aggiungere una nuova sezione su una pagina non di discussione.",
+	"bs-insertmagic-nonewsectionlink": "Rimuove il collegamento accanto alla scheda \"modifica\" nelle pagine dei namespace di discussione."
 }
