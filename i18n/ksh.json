@@ -3,7 +3,8 @@
 		"authors": [
 			"Hwboehm",
 			"Macofe",
-			"Purodha"
+			"Purodha",
+			"Amire80"
 		]
 	},
 	"bs-insertmagic": "Donn e Zauberwood ennföhje",
@@ -43,7 +44,7 @@
 	"bs-insertmagic-type-variables": "Varrėjahbelle",
 	"bs-insertmagic-label-first": "1. Söhg en Makkehrong udder e Zauberwood uß",
 	"bs-insertmagic-label-second": "2. Donn dä Kohd verändere",
-	"bs-insertmagic-label-desc": "Beschrevve!!FUZZYY!!",
+	"bs-insertmagic-label-desc": "Beschrevve",
 	"bs-insertmagic-label-examples": "Beijschpell",
 	"bs-insertmagic-label-see-also": "Loor och noh"
 }
