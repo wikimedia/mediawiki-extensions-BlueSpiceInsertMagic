@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Olve Utne",
 			"Yupik"
 		]
 	},
-	"bs-insertmagic-label-examples": "Åvvdåmierka"
+	"bs-insertmagic-label-examples": "Åvvdåmierka",
+	"bs-insertmagic-label-desc": "Gåvådibme"
 }
