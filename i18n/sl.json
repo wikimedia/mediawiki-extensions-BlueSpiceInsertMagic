@@ -44,7 +44,7 @@
 	"bs-insertmagic-currentversion": "Wiki'jeva MediaWiki različica.",
 	"bs-insertmagic-contentlanguage": "Privzeti jezik wiki vmesnika.",
 	"bs-insertmagic-pageid": "Vrne identifikator strani.",
-	"bs-insertmagic-pagesize": "[zamudno] Vrne velikost določene strani v bajtih. Uporabite <code>|R</code> za vrnitev neurejene (tj. raw) številke.",
+	"bs-insertmagic-pagesize": "[zamudno] Vrne velikost navedene strani v zlogih. Za vrnitev neoblikovane (tj. raw) številke uporabite <code>|R</code>.",
 	"bs-insertmagic-protectionlevel": "Izpiše raven zaščite za dano dejanje na trenutni strani.",
 	"bs-insertmagic-revisionid": "Unikatna številka ID revizije.",
 	"bs-insertmagic-revisionday": "Dan, ko je bila sprememba izvedena (številka brez vodilne ničle).",
