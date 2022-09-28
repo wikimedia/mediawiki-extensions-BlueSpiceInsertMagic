@@ -50,7 +50,7 @@
 	"bs-insertmagic-pageid": "Renvoie l’identifiant de la page.",
 	"bs-insertmagic-pagesize": "[coûteux] Renvoie la taille en octets de la page spécifiée. Utiliser <code>|R</code> pour obtenir des nombres bruts (non formatés).",
 	"bs-insertmagic-protectionlevel": "Renvoie le niveau de protection pour une action donnée sur la page actuelle.",
-	"bs-insertmagic-revisionid": "Identifiant de version unique.",
+	"bs-insertmagic-revisionid": "Identifiant de révision unique.",
 	"bs-insertmagic-revisionday": "Jour où la modification a été effectuée (de 1 à 31, sans zéro initial).",
 	"bs-insertmagic-revisionday2": "Jour où la modification a été effectuée (de 01 à 31, avec un éventuel zéro initial).",
 	"bs-insertmagic-revisionmonth": "Mois où la modification a été effectuée (de 01 à 12, avec un éventuel zéro initial).",
