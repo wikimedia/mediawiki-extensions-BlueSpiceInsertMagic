@@ -41,5 +41,9 @@
 	"bs-insertmagic-label-desc": "Descrizione",
 	"bs-insertmagic-label-examples": "Esempi",
 	"bs-insertmagic-label-see-also": "Vedi anche",
-	"bs-insertmagic-ve-insertmagic-title": "Parola magica"
+	"bs-insertmagic-ve-insertmagic-title": "Parola magica",
+	"bs-insertmagic-label-first": "1. Sceglie l'etichetta o parola magica",
+	"bs-insertmagic-label-second": "2. Modifica il codice",
+	"apihelp-bs-insertmagic-data-store-description": "Elenca tutti gli elementi per la finestra di dialogo InsertMagic",
+	"apihelp-bs-insertmagic-data-store-summary": "Elenca tutti gli elementi per la finestra di dialogo InsertMagic"
 }
