@@ -42,7 +42,7 @@
 	"bs-insertmagic-toc": "Posiziona un sommario nella posizione attuale della parola.",
 	"bs-insertmagic-newsectionlink": "Aggiunge un collegamento (\"+\" per impostazione predefinita) accanto alla scheda \"modifica\" per aggiungere una nuova sezione su una pagina non di discussione.",
 	"bs-insertmagic-nonewsectionlink": "Rimuove il collegamento accanto alla scheda \"modifica\" nelle pagine dei namespace di discussione.",
-	"bs-insertmagic-label-first": "1. Sceglie l'etichetta o parola magica",
+	"bs-insertmagic-label-first": "1. Scegli l'etichetta o parola magica",
 	"bs-insertmagic-label-second": "2. Modifica il codice",
 	"apihelp-bs-insertmagic-data-store-description": "Elenca tutti gli elementi per la finestra di dialogo InsertMagic",
 	"apihelp-bs-insertmagic-data-store-summary": "Elenca tutti gli elementi per la finestra di dialogo InsertMagic"
