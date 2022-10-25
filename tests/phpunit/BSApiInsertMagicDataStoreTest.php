@@ -7,6 +7,7 @@ use BlueSpice\Tests\BSApiExtJSStoreTestBase;
  * @group BlueSpice
  * @group BlueSpiceExtensions
  * @group BlueSpiceInsertMagic
+ * @covers BSApiInsertMagicDataStore
  */
 class BSApiInsertMagicDataStoreTest extends BSApiExtJSStoreTestBase {
 
