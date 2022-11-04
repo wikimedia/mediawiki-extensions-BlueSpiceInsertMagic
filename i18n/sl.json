@@ -21,7 +21,7 @@
 	"bs-insertmagic-notitleconvert": "V vikijih z jezikovnimi različicami ne izvedi nobene jezikovne pretvorbe naslova.",
 	"bs-insertmagic-end": "Izrecno označi konec strani, da prepreči MediaWiki-ju odstranitev končnih presledkov.",
 	"bs-insertmagic-index": "Iskalniki naj indeksirajo to strani.",
-	"bs-insertmagic-noindex": "Iskalniki naj ne indeksirajo to stran.",
+	"bs-insertmagic-noindex": "Iskalniki naj ne indeksirajo te strani.",
 	"bs-insertmagic-staticredirect": "Na straneh za preusmeritev, ne dovoli MediaWiki-ju da samodejno posodobi povezavo, ko se stran premakne in preveri.",
 	"bs-insertmagic-currentyear": "Trenutno leto",
 	"bs-insertmagic-currentmonth": "Trenutni mesec (štetje od 0 dalje).",
