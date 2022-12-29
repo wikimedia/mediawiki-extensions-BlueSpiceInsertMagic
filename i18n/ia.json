@@ -52,7 +52,7 @@
 	"bs-insertmagic-revisiontimestamp": "Data e hora del modification.",
 	"bs-insertmagic-revisionuser": "Le nomine de usator del autor del modification le plus recente del pagina, o, quando se previsualisa un modification, le usator actual.",
 	"bs-insertmagic-displaytitle": "Formatar le titulo del pagina actual.",
-	"bs-insertmagic-defaultsort": "Usate pro categorisar paginas. Predefini un clave de ordination de categorias.",
+	"bs-insertmagic-defaultsort": "Usate pro categorisar paginas. Predefini un clave de ordinamento de categorias.",
 	"bs-insertmagic-gallery": "Facer un galeria de miniaturas con le etiquetta <code>&lt;gallery&gt;</code>.",
 	"bs-insertmagic-nowiki": "Non processar le notation wiki.",
 	"bs-insertmagic-noinclude": "Toto inter <code>&lt;noinclude&gt;</code> e <code>&lt;/noinclude&gt;</code> essera processate e monstrate solmente quando le pagina se visita directemente, non essera includite o substituite.",
