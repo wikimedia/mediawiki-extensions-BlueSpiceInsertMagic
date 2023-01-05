@@ -64,10 +64,13 @@
 	"bs-insertmagic-type-tags": "Značke",
 	"bs-insertmagic-type-variables": "Spremenljivke",
 	"bs-insertmagic-type-switches": "Vedenjska stikala",
+	"bs-insertmagic-type-quickaccess": "Hitri dostop",
 	"bs-insertmagic-label-first": "1. Izberite značko ali čarobno besedo",
 	"bs-insertmagic-label-second": "2. Spremenite kodo",
 	"bs-insertmagic-label-desc": "Opis",
 	"bs-insertmagic-label-examples": "Zgledi",
 	"bs-insertmagic-label-see-also": "Glej tudi",
-	"apihelp-bs-insertmagic-data-store-description": "Navede vse vnose za pogovono okno InsertMagic"
+	"apihelp-bs-insertmagic-data-store-description": "Navede vse vnose za pogovono okno InsertMagic",
+	"apihelp-bs-insertmagic-data-store-summary": "Navede vse predmete za pogovorno okno InsertMagic",
+	"bs-insertmagic-ve-insertmagic-title": "Čarobna beseda"
 }
