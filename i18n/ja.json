@@ -4,7 +4,8 @@
 			"A2y4",
 			"Otokoume",
 			"Shirayuki",
-			"UsagiNeko"
+			"UsagiNeko",
+			"もなー(偽物)"
 		]
 	},
 	"bs-insertmagic-desc": "マジックワードやタグを挿入できるダイアログを追加する",
@@ -59,5 +60,7 @@
 	"bs-insertmagic-label-first": "1. タグまたはマジックワードを選択",
 	"bs-insertmagic-label-second": "2. コードを修正",
 	"bs-insertmagic-label-desc": "説明",
-	"bs-insertmagic-label-examples": "例"
+	"bs-insertmagic-label-examples": "例",
+	"bs-insertmagic-staticredirect": "リダイレクト ページでは、誰かがページを移動して確認したときに、MediaWiki がリンクを自動的に更新することを許可しないでください。",
+	"bs-insertmagic-label-see-also": "関連項目"
 }
