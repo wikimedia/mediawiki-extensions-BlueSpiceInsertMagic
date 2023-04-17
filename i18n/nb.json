@@ -44,7 +44,7 @@
 	"bs-insertmagic-pageid": "Returnerer sideidentifikator.",
 	"bs-insertmagic-pagesize": "[dyr] Returnerer bytestørrelsen til den gitte siden. Bruk <code>|R</code> for å få råe (uformaterte) tall.",
 	"bs-insertmagic-protectionlevel": "Gir beskyttelsesnivå for en gitt handling på den gjeldende siden.",
-	"bs-insertmagic-revisionid": "Unik revisjons-ID.",
+	"bs-insertmagic-revisionid": "Unik sideversjons-ID.",
 	"bs-insertmagic-revisionday": "Dagen endringen ble gjort (ikke-utfylt tall).",
 	"bs-insertmagic-revisionday2": "Dagen endringen ble gjort (0-utfylt tall).",
 	"bs-insertmagic-revisionmonth": "Måned endringen ble gjort (0-utfylt tall).",
