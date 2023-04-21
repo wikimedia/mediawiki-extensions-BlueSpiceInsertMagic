@@ -38,5 +38,7 @@
 	"bs-insertmagic-label-desc": "Aprašymas",
 	"bs-insertmagic-label-examples": "Pavyzdžiai",
 	"bs-insertmagic-label-see-also": "Taip pat žiūrėkite",
-	"apihelp-bs-insertmagic-data-store-description": "Nurodo visus InsertMagic dialogo objektus"
+	"apihelp-bs-insertmagic-data-store-description": "Nurodo visus InsertMagic dialogo objektus",
+	"bs-insertmagic-noeditsection": "Paslepia skyriaus keitimo nuorodas prie antraščių.",
+	"bs-insertmagic-newsectionlink": "Prideda nuorodą (pagal numatytuosius nustatymus „+“) šalia skirtuko „Redaguoti“, kad būtų galima pridėti naują skiltį ne aptarimo puslapyje."
 }
