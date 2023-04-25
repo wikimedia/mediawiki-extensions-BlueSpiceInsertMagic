@@ -18,7 +18,7 @@
 	"bs-insertmagic-nonewsectionlink": "Tar bort länken bredvid \"Redigera\"-fliken på sidor i diskussionsnamnrymden.",
 	"bs-insertmagic-nogallery": "Används på en kategorisida, ersätter miniatyrer i kategorivyn med vanliga länkar.",
 	"bs-insertmagic-hiddencat": "Används på en kategorisida, döljer kategorin från listan över kategorier i dess medlemmar och överordnade kategorier.",
-	"bs-insertmagic-nocontentconvert": "På wikier med språkvarianter, utför ingen språkkonvertering av innehåll (tecken och fas) i sidvisningen.",
+	"bs-insertmagic-nocontentconvert": "På wikier med språkvarianter, utför ingen språkkonvertering av innehåll (tecken och fras) i sidvisningen.",
 	"bs-insertmagic-notitleconvert": "På wikier med språkvarianter, utför ingen språkkonvertering av titeln.",
 	"bs-insertmagic-end": "Markerar uttryckligen slutet på sidan. Detta för att förhindra att MediaWiki tar bort avslutande blanksteg.",
 	"bs-insertmagic-index": "Tala om för sökmotorerna att indexera sidan.",
@@ -45,6 +45,8 @@
 	"bs-insertmagic-currentversion": "Wikins MediaWiki version",
 	"bs-insertmagic-contentlanguage": "Standardspråk för wikins gränssnitt.",
 	"bs-insertmagic-pageid": "Ger sid-id:et.",
+	"bs-insertmagic-pagesize": "[tung] Returnerar den angivna sidans storlek i byte. Använd <code>|R</code> för att få rå (oformaterade) siffror.",
+	"bs-insertmagic-protectionlevel": "Matar ut skrivskyddsnivån för en angiven åtgärd på den nuvarande sidan.",
 	"bs-insertmagic-revisionid": "Unikt versions-ID.",
 	"bs-insertmagic-revisionday": "Dag ändringen gjordes (ej utfyllda nummer).",
 	"bs-insertmagic-revisionday2": "Dag ändringen gjordes (nollutfyllda nummer).",
@@ -70,5 +72,6 @@
 	"bs-insertmagic-label-examples": "Exempel",
 	"bs-insertmagic-label-see-also": "Se även",
 	"apihelp-bs-insertmagic-data-store-description": "Lista alla alternativ för dialogen InsertMagic",
+	"apihelp-bs-insertmagic-data-store-summary": "Listar alla objekt för InsertMagic-dialogen",
 	"bs-insertmagic-ve-insertmagic-title": "Magiskt ord"
 }
