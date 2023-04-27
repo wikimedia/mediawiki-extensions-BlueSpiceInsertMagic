@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Eitvys200"
+			"Eitvys200",
+			"Nokeoo"
 		]
 	},
 	"bs-insertmagic-desc": "Prideda dialogą, kuris leidžia magiškų žodžių ir žymių įterpimą",
@@ -9,6 +10,8 @@
 	"bs-insertmagic-notoc": "Paslepia turinio lentelę.",
 	"bs-insertmagic-forcetoc": "Priverčia turinio lentelę atsirasti jos įprastoje pozicijoje.",
 	"bs-insertmagic-toc": "Pastato turinio lentelę žodžio dabartinėje pozicijoje.",
+	"bs-insertmagic-noeditsection": "Paslepia skyriaus keitimo nuorodas prie antraščių.",
+	"bs-insertmagic-newsectionlink": "Prideda nuorodą (pagal numatytuosius nustatymus „+“) šalia skirtuko „Redaguoti“, kad būtų galima pridėti naują skiltį ne aptarimo puslapyje.",
 	"bs-insertmagic-index": "Nurodyti paieškos varikliams indeksuoti šį puslapį.",
 	"bs-insertmagic-noindex": "Nurodyti paieškos varikliams neindeksuoti šio puslapio.",
 	"bs-insertmagic-currentyear": "Šiais metais",
