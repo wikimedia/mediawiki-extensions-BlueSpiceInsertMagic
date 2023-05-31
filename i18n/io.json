@@ -6,5 +6,8 @@
 	},
 	"bs-insertmagic-type-tags": "Etiketi",
 	"bs-insertmagic-label-desc": "Deskriptado",
-	"bs-insertmagic-label-examples": "Exempli"
+	"bs-insertmagic-label-examples": "Exempli",
+	"bs-insertmagic-currentday2": "Dio di la monato (01 til 31).",
+	"bs-insertmagic-currentdow": "Dio di la semano (sen zeri adsinistre), 0 (por sundio) til 6 (por saturdio).",
+	"bs-insertmagic-currentdayname": "Dio di la semano (nomo)."
 }
