@@ -5,7 +5,8 @@
 			"Otokoume",
 			"Shirayuki",
 			"UsagiNeko",
-			"もなー(偽物)"
+			"もなー(偽物)",
+			"Kokage si"
 		]
 	},
 	"bs-insertmagic-desc": "マジックワードやタグを挿入できるダイアログを追加する",
@@ -62,5 +63,6 @@
 	"bs-insertmagic-label-second": "2. コードを修正",
 	"bs-insertmagic-label-desc": "説明",
 	"bs-insertmagic-label-examples": "例",
-	"bs-insertmagic-label-see-also": "関連項目"
+	"bs-insertmagic-label-see-also": "関連項目",
+	"bs-insertmagic-ve-insertmagic-title": "マジックワード"
 }
