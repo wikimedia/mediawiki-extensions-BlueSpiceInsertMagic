@@ -71,7 +71,6 @@
 	"bs-insertmagic-label-desc": "Beskrivning",
 	"bs-insertmagic-label-examples": "Exempel",
 	"bs-insertmagic-label-see-also": "Se även",
-	"apihelp-bs-insertmagic-data-store-description": "Lista alla alternativ för dialogen InsertMagic",
 	"apihelp-bs-insertmagic-data-store-summary": "Listar alla objekt för InsertMagic-dialogen",
 	"bs-insertmagic-ve-insertmagic-title": "Magiskt ord"
 }

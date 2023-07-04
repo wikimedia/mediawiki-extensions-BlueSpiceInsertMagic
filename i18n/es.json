@@ -72,7 +72,6 @@
 	"bs-insertmagic-label-desc": "Descripción",
 	"bs-insertmagic-label-examples": "Ejemplos",
 	"bs-insertmagic-label-see-also": "Véase también",
-	"apihelp-bs-insertmagic-data-store-description": "Enumera todos los elementos del diálogo InsertMagic",
 	"apihelp-bs-insertmagic-data-store-summary": "Enumera todos los elementos del diálogo InsertMagic",
 	"bs-insertmagic-ve-insertmagic-title": "Palabra mágica"
 }
