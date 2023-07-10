@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
-			"Guycn2"
+			"Guycn2",
+			"Neriah"
 		]
 	},
 	"bs-insertmagic-desc": "תיבת דו־שיח המאפשרת להוסיף מילות קסם ותגים",
@@ -45,11 +46,11 @@
 	"bs-insertmagic-pagesize": "[גוזל משאבים רבים] החזרת גודל הדף (בבייטים) של הדף שצוין. ניתן להשתמש ב־<code dir=\"ltr\">|R</code> כדי לקבל את המספר הגולמי (כלומר, ללא פסיקים).",
 	"bs-insertmagic-protectionlevel": "החזרת רמת ההגנה של פעולה מסוימת בדף הזה.",
 	"bs-insertmagic-revisionid": "מזהה גרסה ייחודי.",
-	"bs-insertmagic-revisionday": "היום בחודש שבו הדף שוּנה (ללא תחילית 0).",
-	"bs-insertmagic-revisionday2": "היום בחודש שבו הדף שוּנה (כולל תחילית 0 במקרה הצורך).",
-	"bs-insertmagic-revisionmonth": "מספר החודש שבו הדף שוּנה (כולל תחילית 0 במקרה הצורך).",
-	"bs-insertmagic-revisionmonth1": "מספר החודש שבו הדף שוּנה (ללא תחילית 0).",
-	"bs-insertmagic-revisionyear": "השנה שבה הדף שוּנה.",
+	"bs-insertmagic-revisionday": "היום בחודש שבו הדף שונה (ללא תחילית 0).",
+	"bs-insertmagic-revisionday2": "היום בחודש שבו הדף שונה (כולל תחילית 0 במקרה הצורך).",
+	"bs-insertmagic-revisionmonth": "מספר החודש שבו הדף שונה (כולל תחילית 0 במקרה הצורך).",
+	"bs-insertmagic-revisionmonth1": "מספר החודש שבו הדף שונה (ללא תחילית 0).",
+	"bs-insertmagic-revisionyear": "השנה שבה הדף שונה.",
 	"bs-insertmagic-revisiontimestamp": "התאריך והשעה של השינוי בדף.",
 	"bs-insertmagic-revisionuser": "שם המשתמש של מי שערך את הגרסה האחרונה של הדף, או השם של המשתמש הנוכחי בעת צפייה בתצוגה מקדימה של עריכה.",
 	"bs-insertmagic-displaytitle": "עיצוב הכותרת של הדף הנוכחי.",
