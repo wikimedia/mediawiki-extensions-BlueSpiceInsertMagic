@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Elisardojm",
-			"Macofe"
+			"Macofe",
+			"Toliño"
 		]
 	},
 	"bs-insertmagic-desc": "Engade un cadro de diálogo que permite inserir palabras máxicas e etiquetas",
@@ -15,7 +16,7 @@
 	"bs-insertmagic-nonewsectionlink": "Quita a ligazón situada xunto á pestana «Editar» nas páxinas do espazo de nomes Conversa.",
 	"bs-insertmagic-nogallery": "Usado nunha páxina de categoría, reempraza as miniaturas na vista de categoría con ligazóns normais.",
 	"bs-insertmagic-hiddencat": "Usado nunha páxina de categoría, esconde a categoría das listas de categorías nos seus membros e nas categorías superiores.",
-	"bs-insertmagic-nocontentconvert": "En wikis con variantes de idioma, non realizar ningunha conversión de contido do idioma (carácter e frase) na presentación de páxina.",
+	"bs-insertmagic-nocontentconvert": "En wikis con variantes de idioma, non realizar ningunha conversión de contido do idioma (carácter e frase) na presentación da páxina.",
 	"bs-insertmagic-notitleconvert": "Nas wikis con variantes de idioma, non leve a cabo a conversión de idioma no título.",
 	"bs-insertmagic-end": "Marca explícitamente o final da páxina para impedir que MediaWiki elimine os espazos en branco (finais).",
 	"bs-insertmagic-index": "Indicar ós motores de busca deben indexar a páxina.",
@@ -69,5 +70,6 @@
 	"bs-insertmagic-label-examples": "Exemplos",
 	"bs-insertmagic-label-see-also": "Véxase tamén",
 	"apihelp-bs-insertmagic-data-store-description": "Lista tódolos elementos para o diálogo InsertMagic",
+	"apihelp-bs-insertmagic-data-store-summary": "Lista tódolos elementos para o diálogo InsertMagic",
 	"bs-insertmagic-ve-insertmagic-title": "Palabra máxica"
 }
