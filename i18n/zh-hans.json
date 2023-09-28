@@ -8,7 +8,8 @@
 			"Xiplus",
 			"Yfdyh000",
 			"捍粵者",
-			"沈澄心"
+			"沈澄心",
+			"LittlePaw365"
 		]
 	},
 	"bs-insertmagic-desc": "添加对话框以允许插入魔术字和标签",
@@ -48,7 +49,7 @@
 	"bs-insertmagic-currentversion": "Wiki的MediaWiki版本。",
 	"bs-insertmagic-contentlanguage": "Wiki的默认界面语言。",
 	"bs-insertmagic-pageid": "返回页面标识符。",
-	"bs-insertmagic-pagesize": "[高开销] 返回特定页面的字节大小。使用<code>|R</code>以获取原始（未格式化）数值。",
+	"bs-insertmagic-pagesize": "[高开销]返回指定页面的字节大小。使用<code>|R</code>可获取原始（未格式化）数字。",
 	"bs-insertmagic-protectionlevel": "输出当前页面指定操作的保护等级。",
 	"bs-insertmagic-revisionid": "唯一修订ID。",
 	"bs-insertmagic-revisionday": "日更改已作出（无填充数字）。",
