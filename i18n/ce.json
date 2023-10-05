@@ -4,5 +4,14 @@
 			"Умар"
 		]
 	},
-	"bs-insertmagic-currentmonthabbrev": "Карара бутт (боца)."
+	"bs-insertmagic": "Магин дош чудилла",
+	"bs-insertmagic-notoc": "Чулацам къайлабоккху.",
+	"bs-insertmagic-currentyear": "Карара шо",
+	"bs-insertmagic-currentmonthabbrev": "Карара бутт (боца).",
+	"bs-insertmagic-server": "Доменан URL-адрес.",
+	"bs-insertmagic-servername": "Доменан цӀе.",
+	"bs-insertmagic-type-tags": "Тегаш",
+	"bs-insertmagic-type-variables": "Хийцаме",
+	"bs-insertmagic-label-see-also": "Хьажа иштта",
+	"bs-insertmagic-ve-insertmagic-title": "Магин дош"
 }
