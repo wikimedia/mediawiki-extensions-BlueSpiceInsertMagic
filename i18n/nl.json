@@ -53,7 +53,7 @@
 	"bs-insertmagic-contentlanguage": "De standaard-interface taal van de wiki.",
 	"bs-insertmagic-pageid": "Geeft het pagina-ID terug.",
 	"bs-insertmagic-pagesize": "[kostbaar] Geeft als resultaat het aantal bytes van de opgegeven pagina. Gebruik <code>|R</code> om ruwe (onopgemaakte) getallen te krijgen.",
-	"bs-insertmagic-protectionlevel": "Geeft het beveiligingsniveau weer voor een bepaalde actie op de huidige pagina.",
+	"bs-insertmagic-protectionlevel": "Geeft het beveiligingsniveau weer voor een bepaalde handeling op de huidige pagina.",
 	"bs-insertmagic-revisionid": "Unieke herziening ID.",
 	"bs-insertmagic-revisionday": "De dag waarop de wijziging is aangebracht (geen voorloopnul).",
 	"bs-insertmagic-revisionday2": "De dag waarop de wijziging is aangebracht (met voorloopnul).",
