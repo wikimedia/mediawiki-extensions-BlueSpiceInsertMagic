@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Adriendelucca",
 			"Fohanno",
 			"Fulup",
 			"Y-M D"
@@ -25,5 +26,6 @@
 	"bs-insertmagic-label-second": "2. Cheñch ar c'hod",
 	"bs-insertmagic-label-desc": "Deskrivadur",
 	"bs-insertmagic-label-examples": "Skouerioù",
-	"bs-insertmagic-label-see-also": "Gwelet ivez"
+	"bs-insertmagic-label-see-also": "Gwelet ivez",
+	"bs-insertmagic-ve-insertmagic-title": "Ger hud"
 }
