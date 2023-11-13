@@ -64,5 +64,6 @@
 	"bs-insertmagic-label-examples": "例",
 	"bs-insertmagic-staticredirect": "リダイレクト ページでは、誰かがページを移動して確認したときに、MediaWiki がリンクを自動的に更新することを許可しないでください。",
 	"bs-insertmagic-label-see-also": "関連項目",
-	"bs-insertmagic-ve-insertmagic-title": "マジックワード"
+	"bs-insertmagic-ve-insertmagic-title": "マジックワード",
+	"bs-insertmagic-nowiki": "Wikiマークアップを終了します。"
 }
