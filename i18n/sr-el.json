@@ -9,5 +9,8 @@
 	"bs-insertmagic-notoc": "Sakriva tabelu sadržaja",
 	"bs-insertmagic-type-tags": "Oznake",
 	"bs-insertmagic-type-quickaccess": "Brzi pristup",
-	"bs-insertmagic-label-desc": "Opis"
+	"bs-insertmagic-label-desc": "Opis",
+	"bs-insertmagic-label-examples": "Primeri",
+	"bs-insertmagic-label-see-also": "Vidi još",
+	"bs-insertmagic-ve-insertmagic-title": "Magična reč"
 }
