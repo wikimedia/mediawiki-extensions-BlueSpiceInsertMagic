@@ -65,5 +65,6 @@
 	"bs-insertmagic-staticredirect": "リダイレクト ページでは、誰かがページを移動して確認したときに、MediaWiki がリンクを自動的に更新することを許可しないでください。",
 	"bs-insertmagic-label-see-also": "関連項目",
 	"bs-insertmagic-ve-insertmagic-title": "マジックワード",
-	"bs-insertmagic-nowiki": "Wikiマークアップを終了します。"
+	"bs-insertmagic-nowiki": "Wikiマークアップを終了します。",
+	"apihelp-bs-insertmagic-data-store-summary": "InsertMagic ダイアログのすべての項目をリストします。"
 }
