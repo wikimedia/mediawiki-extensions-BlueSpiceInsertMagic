@@ -65,5 +65,6 @@
 	"bs-insertmagic-label-desc": "説明",
 	"bs-insertmagic-label-examples": "例",
 	"bs-insertmagic-label-see-also": "関連項目",
+	"apihelp-bs-insertmagic-data-store-summary": "InsertMagic ダイアログのすべての項目をリストします。",
 	"bs-insertmagic-ve-insertmagic-title": "マジックワード"
 }
