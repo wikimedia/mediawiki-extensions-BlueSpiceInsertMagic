@@ -66,5 +66,6 @@
 	"bs-insertmagic-label-see-also": "関連項目",
 	"bs-insertmagic-ve-insertmagic-title": "マジックワード",
 	"bs-insertmagic-nowiki": "Wikiマークアップを終了します。",
-	"apihelp-bs-insertmagic-data-store-summary": "InsertMagic ダイアログのすべての項目をリストします。"
+	"apihelp-bs-insertmagic-data-store-summary": "InsertMagic ダイアログのすべての項目をリストします。",
+	"bs-insertmagic-displaytitle": "現在のページのタイトルヘッダーの書式を設定します。"
 }
