@@ -54,6 +54,7 @@
 	"bs-insertmagic-revisionyear": "編集された年",
 	"bs-insertmagic-revisiontimestamp": "編集された日時のタイムスタンプ",
 	"bs-insertmagic-revisionuser": "指定したページの最新の版を編集した利用者名。編集のプレビューでは現在の利用者名。",
+	"bs-insertmagic-displaytitle": "現在のページのタイトルヘッダーの書式を設定します。",
 	"bs-insertmagic-nowiki": "Wikiマークアップを終了します。",
 	"bs-insertmagic-dlg-title": "マジックワードやタグの挿入",
 	"bs-insertmagic-type-tags": "タグ",
