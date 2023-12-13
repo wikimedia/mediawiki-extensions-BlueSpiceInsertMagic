@@ -24,6 +24,7 @@
 	"bs-insertmagic-dlg-title": "Wstaw magiczne słowo lub znacznik",
 	"bs-insertmagic-type-tags": "Znaczniki",
 	"bs-insertmagic-type-variables": "Zmienne",
+	"bs-insertmagic-type-quickaccess": "Szybki dostęp",
 	"bs-insertmagic-label-first": "1. Wybierz znacznik lub magiczne słowo",
 	"bs-insertmagic-label-second": "2. Zmień kod",
 	"bs-insertmagic-label-desc": "Opis",
