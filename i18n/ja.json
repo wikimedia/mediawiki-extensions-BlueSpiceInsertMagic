@@ -67,5 +67,7 @@
 	"bs-insertmagic-ve-insertmagic-title": "マジックワード",
 	"bs-insertmagic-nowiki": "Wikiマークアップを終了します。",
 	"apihelp-bs-insertmagic-data-store-summary": "InsertMagic ダイアログのすべての項目をリストします。",
-	"bs-insertmagic-displaytitle": "現在のページのタイトルヘッダーの書式を設定します。"
+	"bs-insertmagic-displaytitle": "現在のページのタイトルヘッダーの書式を設定します。",
+	"bs-insertmagic-protectionlevel": "現在のページ上の特定の操作の保護レベルを出力します。",
+	"bs-insertmagic-defaultsort": "ページを分類するために使用される規定のカテゴリ ソート キーを設定します。"
 }
