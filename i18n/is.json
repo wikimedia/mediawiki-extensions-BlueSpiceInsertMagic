@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Stefán Örvar Sigmundsson",
 			"Sveinn í Felli"
 		]
 	},
-	"bs-insertmagic-currenttimestamp": "Tímamerki á sniðinu YYYYMMDDHHmmss."
+	"bs-insertmagic": "Setja inn galdraorð",
+	"bs-insertmagic-currenttimestamp": "Tímamerki á sniðinu YYYYMMDDHHmmss.",
+	"bs-insertmagic-dlg-title": "Setja inn galdraorð eða merki",
+	"bs-insertmagic-label-first": "1. Veldu merki eða galdraorð",
+	"bs-insertmagic-ve-insertmagic-title": "Galdraorð"
 }
