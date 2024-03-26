@@ -3,6 +3,7 @@
 		"authors": [
 			"Alirezaaa",
 			"Beginneruser",
+			"Ebraminio",
 			"FarsiNevis",
 			"Jeeputer"
 		]
@@ -15,7 +16,7 @@
 	"bs-insertmagic-noeditsection": "بخش ویرایش پیوندها کنار سرفصل‌ها را پنهان می‌کند.",
 	"bs-insertmagic-newsectionlink": "یک پیوند را ('+' به طور پیش‌فرض) کنار صفحه 'ویرایش' برای افزودن بخشی تازه در صفحه‌ای غیر از صفحه بحث می‌افزاید.",
 	"bs-insertmagic-nonewsectionlink": "پیوند کنار صفحه 'ویرایش' در صفحه‌هایی که در فضاهای نام بحث هستند حذف می‌کند.",
-	"bs-insertmagic-nogallery": "در یک صفحه رده استفاده شده‌است، بندانگشتی‌ها را در نمایش آن رده با پیوندهای عادی جایگزین می‌کند.",
+	"bs-insertmagic-nogallery": "در یک صفحه رده استفاده شده است، بندانگشتی‌ها را در نمایش آن رده با پیوندهای عادی جایگزین می‌کند.",
 	"bs-insertmagic-hiddencat": "مورد استفاده در صفحه رده، رده را از فهرست‌های رده‌ها در اعضایش و رده‌های والدش پنهان میکند.",
 	"bs-insertmagic-index": "به موتورهای جستجو بگو صفحه را فهرست کنند.",
 	"bs-insertmagic-noindex": "به موتورهای جستجو بگو صفحه را فهرست نکنند.",
@@ -47,7 +48,7 @@
 	"bs-insertmagic-revisionmonth1": "تغییر ماه انجام شد (تعداد غیر خالی).",
 	"bs-insertmagic-revisionyear": "تغییر سال انجام شد.",
 	"bs-insertmagic-revisiontimestamp": "برچسب زمان به عنوان زمان تغییر.",
-	"bs-insertmagic-revisionuser": "نام کابری که آخرین تغییر را در صفحه اعمال کرده‌است، یا کاربر کنونی در زمان پیش‌نمایش تغییر.",
+	"bs-insertmagic-revisionuser": "نام کابری که آخرین تغییر را در صفحه اعمال کرده است، یا کاربر کنونی در زمان پیش‌نمایش تغییر.",
 	"bs-insertmagic-displaytitle": "قالب‌بندی سرساز عنوان صفحه جاری.",
 	"bs-insertmagic-gallery": "با برچسب <code>&lt;gallery&gt;</code> یک گالری از بندانگشتی‌ها بسازید.",
 	"bs-insertmagic-nowiki": "گریختن از نشانه‌گذاری ویکی.",
